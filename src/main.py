@@ -26,7 +26,7 @@ def get_episodes(shows):
             episodes[show_id] = show_data['_embedded']['nextepisode']
 
             air_date = date.fromisoformat(episodes[show_id]['airdate'])
-            hh, mm = episodes[show_id]['airtime'].split(":")
+            hh, mm = episodes[show_id]['airtime'].split(":") if len(episodes[show_id]['airtime']) > 0 else ['00', '00']
             episodes[show_id]['formatted_date'] = air_date.strftime(f"%a, %d %b %Y {hh}:{mm}:%S GMT")
             
             if 'medium' in show_data['image']:
