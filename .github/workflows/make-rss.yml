@@ -36,5 +36,5 @@ jobs:
           git config --global user.name 'Gitub Action'
           git config --global user.email 'action@github.com'
           git add docs/feed.xml
-          git commit -am "automated commit"
+          git commit -m "automated commit"
           git push
