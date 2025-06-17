@@ -39,9 +39,9 @@ def build_item(el_parent, key, episode):
     item_guid = ET.SubElement(rss_item, 'guid')
     item_guid.text = f"{key}-{episode['id']}"
     item_title = ET.SubElement(rss_item, 'title')
-    item_title.text = episode['name']
+    item_title.text = episode['_links']['show']['name']
     item_description = ET.SubElement(rss_item, 'description')
-    item_description.text = f"""<h1>{episode['_links']['show']['name']}</h1>
+    item_description.text = f"""<h1>{episode['name']}</h1>
 <p><b>Season {episode['season']} Epsiode {episode['number']}</b></p>
 <p><i>{episode['formatted_date']}</i></p>
 {episode['summary']}"""

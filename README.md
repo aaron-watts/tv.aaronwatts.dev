@@ -16,7 +16,7 @@ Push to your github.
 
 ### Step 4: Set up Github Pages
 
-Set up a Project Github Pages for your repo. You will need set Github Pages to deploy from `branch:main` and set `/docs` as the root folder.
+Set up a Project Github Pages for your repo. You will need set to Github Pages to deploy from `branch:main` and set `/docs` as the root folder.
 
 ### Step 5: Add your shows
 
