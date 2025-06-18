@@ -113,3 +113,12 @@ footer > div:first-of-type a {
         width: 70%;
     }
 }
+
+img#github-logo {
+    content: url("../images/github-mark.png");
+}
+@media (prefers-color-scheme: dark) {
+    img#github-logo {
+        content: url("../images/github-mark-white.png");
+    }
+}
