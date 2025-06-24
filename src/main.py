@@ -42,9 +42,9 @@ def build_item(el_parent, key, episode):
     item_title.text = episode['_links']['show']['name']
     item_description = ET.SubElement(rss_item, 'description')
     item_description.text = f"""<h1>{episode['name']}</h1>
-<p><b>Season {episode['season']} Epsiode {episode['number']}</b></p>
+<p><b>Season {episode['season']} Episode {episode['number']}</b></p>
 <p><i>{episode['formatted_date']}</i></p>
-{episode['summary']}"""
+{episode['summary'] if episode['summary'] != 'none' else 'No description yet'}"""
     item_pubDate = ET.SubElement(rss_item, 'pubDate')
     item_pubDate.text = episode['formatted_date']
     if 'image' in episode:
