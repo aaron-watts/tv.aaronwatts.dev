@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <atom:link href="https://tv.aaronwatts.dev/feed.xml" rel="self" type="applications/rss+xml" />
+    <ns0:link href="https://tv.aaronwatts.dev/feed.xml" rel="self" type="applications/rss+xml" />
     <title>TV Shows</title>
     <link>https://tv.aaronwatts.dev</link>
     <description>Updates of new episodes of TV shows on my list of favourites</description>
