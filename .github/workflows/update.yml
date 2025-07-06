@@ -1,4 +1,4 @@
-name: Make RSS Feed
+name: Update JSON
 
 on:
   schedule:
