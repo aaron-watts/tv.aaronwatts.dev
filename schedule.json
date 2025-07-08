@@ -1,24 +1,24 @@
 {
     "schedule": {
         "216": {
-            "id": 3203320,
-            "url": "https://www.tvmaze.com/episodes/3203320/rick-and-morty-8x07-ricker-than-fiction",
-            "name": "Ricker than Fiction",
+            "id": 3203321,
+            "url": "https://www.tvmaze.com/episodes/3203321/rick-and-morty-8x08-nomortland",
+            "name": "Nomortland",
             "season": 8,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2025-07-06",
+            "airdate": "2025-07-13",
             "airtime": "23:00",
-            "airstamp": "2025-07-07T03:00:00+00:00",
+            "airstamp": "2025-07-14T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Rick and Morty write the next installment of their favorite movie franchise. Pure cinema, broh.</p>",
+            "summary": "<p>That funemployed life, broh. Jerry makes a friend just as jobless as he is.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3203320"
+                    "href": "https://api.tvmaze.com/episodes/3203321"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/216",
