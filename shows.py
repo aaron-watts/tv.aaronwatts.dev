@@ -17,4 +17,5 @@ shows = [
     '28757', # Big Mouth
     '69327', # Common Side Effects
     '107', # Bob's Burgers
+    '73023', # Dandadan
 ]
