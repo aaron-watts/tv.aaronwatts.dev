@@ -103,6 +103,32 @@
                     "name": "Bob's Burgers"
                 }
             }
+        },
+        "73023": {
+            "id": 3294054,
+            "url": "https://www.tvmaze.com/episodes/3294054/dandadan-2x02-the-evil-eye",
+            "name": "The Evil Eye",
+            "season": 2,
+            "number": 2,
+            "type": "regular",
+            "airdate": "2025-07-10",
+            "airtime": "00:26",
+            "airstamp": "2025-07-10T15:26:00+00:00",
+            "runtime": 24,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3294054"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/73023",
+                    "name": "Dandadan"
+                }
+            }
         }
     }
 }
