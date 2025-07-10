@@ -18,4 +18,5 @@ shows = [
     '69327', # Common Side Effects
     '107', # Bob's Burgers
     '73023', # Dandadan
+    '80375', # Bleach Thousand Year Blood War
 ]
