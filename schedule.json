@@ -79,24 +79,24 @@
             }
         },
         "107": {
-            "id": 3287986,
-            "url": "https://www.tvmaze.com/episodes/3287986/bobs-burgers-15x17-wild-steal-ions",
-            "name": "Wild Steal-ions",
+            "id": 3289201,
+            "url": "https://www.tvmaze.com/episodes/3289201/bobs-burgers-15x18-dont-worry-be-hoopy",
+            "name": "Don't Worry, Be Hoopy",
             "season": 15,
-            "number": 17,
+            "number": 18,
             "type": "regular",
-            "airdate": "2025-07-10",
+            "airdate": "2025-07-17",
             "airtime": "20:00",
-            "airstamp": "2025-07-11T00:00:00+00:00",
+            "airstamp": "2025-07-18T00:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Tina's lost book of semi-erotic Horse-torical Fiction lands in the hands of a mysterious stranger with nefarious intentions.</p>",
+            "summary": "<p>Tina must confront her fear and her past when she advances to the County Finals of a national free throw competition.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3287986"
+                    "href": "https://api.tvmaze.com/episodes/3289201"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
@@ -105,15 +105,15 @@
             }
         },
         "73023": {
-            "id": 3294054,
-            "url": "https://www.tvmaze.com/episodes/3294054/dandadan-2x02-the-evil-eye",
-            "name": "The Evil Eye",
+            "id": 3294055,
+            "url": "https://www.tvmaze.com/episodes/3294055/dandadan-2x03-episode-3",
+            "name": "Episode 3",
             "season": 2,
-            "number": 2,
+            "number": 3,
             "type": "regular",
-            "airdate": "2025-07-10",
+            "airdate": "2025-07-17",
             "airtime": "00:26",
-            "airstamp": "2025-07-10T15:26:00+00:00",
+            "airstamp": "2025-07-17T15:26:00+00:00",
             "runtime": 24,
             "rating": {
                 "average": null
@@ -122,7 +122,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3294054"
+                    "href": "https://api.tvmaze.com/episodes/3294055"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/73023",
