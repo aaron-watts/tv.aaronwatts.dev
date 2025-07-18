@@ -79,24 +79,24 @@
             }
         },
         "107": {
-            "id": 3289201,
-            "url": "https://www.tvmaze.com/episodes/3289201/bobs-burgers-15x18-dont-worry-be-hoopy",
-            "name": "Don't Worry, Be Hoopy",
+            "id": 3300612,
+            "url": "https://www.tvmaze.com/episodes/3300612/bobs-burgers-15x19-the-dead-bo-ats-society",
+            "name": "The Dead Bo-ats Society",
             "season": 15,
-            "number": 18,
+            "number": 19,
             "type": "regular",
-            "airdate": "2025-07-17",
+            "airdate": "2025-07-31",
             "airtime": "20:00",
-            "airstamp": "2025-07-18T00:00:00+00:00",
+            "airstamp": "2025-08-01T00:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Tina must confront her fear and her past when she advances to the County Finals of a national free throw competition.</p>",
+            "summary": "<p>The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn. Then, when Big Bob brings over a kite from Bob's childhood, Bob is determined to fly it with his kids. Meanwhile, Teddy seeks Linda's help in rehearsing for a play.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3289201"
+                    "href": "https://api.tvmaze.com/episodes/3300612"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
@@ -105,15 +105,15 @@
             }
         },
         "73023": {
-            "id": 3294055,
-            "url": "https://www.tvmaze.com/episodes/3294055/dandadan-2x03-you-wont-get-away-with-this",
-            "name": "You Won't Get Away With This!",
+            "id": 3294056,
+            "url": "https://www.tvmaze.com/episodes/3294056/dandadan-2x04-episode-4",
+            "name": "Episode 4",
             "season": 2,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2025-07-17",
+            "airdate": "2025-07-24",
             "airtime": "00:26",
-            "airstamp": "2025-07-17T15:26:00+00:00",
+            "airstamp": "2025-07-24T15:26:00+00:00",
             "runtime": 24,
             "rating": {
                 "average": null
@@ -122,7 +122,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3294055"
+                    "href": "https://api.tvmaze.com/episodes/3294056"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/73023",
