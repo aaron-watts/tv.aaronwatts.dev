@@ -5,10 +5,11 @@
     <link>https://tv.aaronwatts.dev</link>
     <description>Updates of new episodes of TV shows on my list of favourites</description>
     <item>
-      <guid>216-3203322</guid>
-      <title>Morty Daddy</title>
-      <description>Season 8 Epsiode 9</description>
-      <pubDate>2025-07-21T03:00:00+00:00</pubDate>
+      <guid>216-3203323</guid>
+      <title>Hot Rick</title>
+      <description>Season 8 Epsiode 10</description>
+      <pubDate>2025-07-28T03:00:00+00:00</pubDate>
+      <enclosure url="https://static.tvmaze.com/uploads/images/medium_portrait/477/1194843.jpg" length="0" type="image/jpeg" />
       <enclosure url="https://static.tvmaze.com/uploads/images/medium_portrait/477/1194843.jpg" length="0" type="image/jpeg" />
       <enclosure url="https://static.tvmaze.com/uploads/images/medium_portrait/477/1194843.jpg" length="0" type="image/jpeg" />
       <enclosure url="https://static.tvmaze.com/uploads/images/medium_portrait/477/1194843.jpg" length="0" type="image/jpeg" />
@@ -43,6 +44,16 @@ None</description>
 None</description>
       <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
       <enclosure url="https://static.tvmaze.com/uploads/images/medium_portrait/572/1432341.jpg" length="0" type="image/jpeg" />
+    </item>
+    <item>
+      <guid>538-3308249</guid>
+      <title>Futurama</title>
+      <description>&lt;h1&gt;Episode 1&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Season 13 Episode 1&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Mon, 15 Sep 2025 20:00:00 GMT&lt;/i&gt;&lt;/p&gt;
+None</description>
+      <pubDate>Mon, 15 Sep 2025 20:00:00 GMT</pubDate>
+      <enclosure url="https://static.tvmaze.com/uploads/images/medium_portrait/529/1322882.jpg" length="0" type="image/jpeg" />
     </item>
   </channel>
 </rss>
