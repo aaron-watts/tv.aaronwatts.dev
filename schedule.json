@@ -1,24 +1,24 @@
 {
     "schedule": {
         "216": {
-            "id": 3203322,
-            "url": "https://www.tvmaze.com/episodes/3203322/rick-and-morty-8x09-morty-daddy",
-            "name": "Morty Daddy",
+            "id": 3203323,
+            "url": "https://www.tvmaze.com/episodes/3203323/rick-and-morty-8x10-hot-rick",
+            "name": "Hot Rick",
             "season": 8,
-            "number": 9,
+            "number": 10,
             "type": "regular",
-            "airdate": "2025-07-20",
+            "airdate": "2025-07-27",
             "airtime": "23:00",
-            "airstamp": "2025-07-21T03:00:00+00:00",
+            "airstamp": "2025-07-28T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Summer and Rick dine OUT, broh. Fancy restaurant stuff. Morty reconnects with someone from his past.</p>",
+            "summary": "<p>Sometimes we try weird stuff to let go of the past.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3203322"
+                    "href": "https://api.tvmaze.com/episodes/3203323"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/216",
@@ -75,6 +75,32 @@
                 "show": {
                     "href": "https://api.tvmaze.com/shows/2993",
                     "name": "Stranger Things"
+                }
+            }
+        },
+        "538": {
+            "id": 3308249,
+            "url": "https://www.tvmaze.com/episodes/3308249/futurama-13x01-episode-1",
+            "name": "Episode 1",
+            "season": 13,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2025-09-15",
+            "airtime": "20:00",
+            "airstamp": "2025-09-16T00:00:00+00:00",
+            "runtime": null,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3308249"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/538",
+                    "name": "Futurama"
                 }
             }
         },
