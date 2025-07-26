@@ -118,7 +118,10 @@
             "rating": {
                 "average": null
             },
-            "image": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/579/1449679.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/579/1449679.jpg"
+            },
             "summary": "<p>The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn. Then, when Big Bob brings over a kite from Bob's childhood, Bob is determined to fly it with his kids. Meanwhile, Teddy seeks Linda's help in rehearsing for a play.</p>",
             "_links": {
                 "self": {
@@ -153,6 +156,32 @@
                 "show": {
                     "href": "https://api.tvmaze.com/shows/73023",
                     "name": "Dandadan"
+                }
+            }
+        },
+        "112": {
+            "id": 3309709,
+            "url": "https://www.tvmaze.com/episodes/3309709/south-park-27x02-tba",
+            "name": "TBA",
+            "season": 27,
+            "number": 2,
+            "type": "regular",
+            "airdate": "2025-07-30",
+            "airtime": "22:00",
+            "airstamp": "2025-07-31T02:00:00+00:00",
+            "runtime": 30,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3309709"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/112",
+                    "name": "South Park"
                 }
             }
         }
