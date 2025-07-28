@@ -12,7 +12,7 @@
             "airstamp": "2025-07-28T03:00:00+00:00",
             "runtime": 30,
             "rating": {
-                "average": null
+                "average": 10
             },
             "image": null,
             "summary": "<p>Brohhhhh. Broh. Sometimes we try weird stuff to let go of the past, broh.</p>",
@@ -135,8 +135,8 @@
         },
         "73023": {
             "id": 3294057,
-            "url": "https://www.tvmaze.com/episodes/3294057/dandadan-2x05-episode-5",
-            "name": "Episode 5",
+            "url": "https://www.tvmaze.com/episodes/3294057/dandadan-2x05-we-can-all-stay-there-together",
+            "name": "We Can All Stay There Together!",
             "season": 2,
             "number": 5,
             "type": "regular",
