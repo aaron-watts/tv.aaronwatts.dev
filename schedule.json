@@ -1,31 +1,5 @@
 {
     "schedule": {
-        "216": {
-            "id": 3203323,
-            "url": "https://www.tvmaze.com/episodes/3203323/rick-and-morty-8x10-hot-rick",
-            "name": "Hot Rick",
-            "season": 8,
-            "number": 10,
-            "type": "regular",
-            "airdate": "2025-07-27",
-            "airtime": "23:00",
-            "airstamp": "2025-07-28T03:00:00+00:00",
-            "runtime": 30,
-            "rating": {
-                "average": 10
-            },
-            "image": null,
-            "summary": "<p>Brohhhhh. Broh. Sometimes we try weird stuff to let go of the past, broh.</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3203323"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/216",
-                    "name": "Rick and Morty"
-                }
-            }
-        },
         "62998": {
             "id": 3262779,
             "url": "https://www.tvmaze.com/episodes/3262779/gen-v-2x01-episode-1",
