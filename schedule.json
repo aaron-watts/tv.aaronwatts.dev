@@ -79,27 +79,27 @@
             }
         },
         "107": {
-            "id": 3300612,
-            "url": "https://www.tvmaze.com/episodes/3300612/bobs-burgers-15x19-the-dead-bo-ats-society",
-            "name": "The Dead Bo-ats Society",
+            "id": 3304889,
+            "url": "https://www.tvmaze.com/episodes/3304889/bobs-burgers-15x21-mr-safebody",
+            "name": "Mr. Safebody",
             "season": 15,
-            "number": 19,
+            "number": 21,
             "type": "regular",
-            "airdate": "2025-07-31",
+            "airdate": "2025-08-07",
             "airtime": "20:00",
-            "airstamp": "2025-08-01T00:00:00+00:00",
+            "airstamp": "2025-08-08T00:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/579/1449679.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/579/1449679.jpg"
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/579/1449680.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/579/1449680.jpg"
             },
-            "summary": "<p>The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn. Then, when Big Bob brings over a kite from Bob's childhood, Bob is determined to fly it with his kids. Meanwhile, Teddy seeks Linda's help in rehearsing for a play.</p>",
+            "summary": "<p>Louise's schoolmate Arnold enlists her to direct a promotional video for his new bodyguarding business. Meanwhile, a stolen car blasting 90's alternative rock is abandoned outside of the restaurant.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3300612"
+                    "href": "https://api.tvmaze.com/episodes/3304889"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
@@ -108,15 +108,15 @@
             }
         },
         "73023": {
-            "id": 3294057,
-            "url": "https://www.tvmaze.com/episodes/3294057/dandadan-2x05-we-can-all-stay-there-together",
-            "name": "We Can All Stay There Together!",
+            "id": 3294058,
+            "url": "https://www.tvmaze.com/episodes/3294058/dandadan-2x06-episode-6",
+            "name": "Episode 6",
             "season": 2,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2025-07-31",
+            "airdate": "2025-08-07",
             "airtime": "00:26",
-            "airstamp": "2025-07-31T15:26:00+00:00",
+            "airstamp": "2025-08-07T15:26:00+00:00",
             "runtime": 24,
             "rating": {
                 "average": null
@@ -125,7 +125,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3294057"
+                    "href": "https://api.tvmaze.com/episodes/3294058"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/73023",
