@@ -134,24 +134,24 @@
             }
         },
         "112": {
-            "id": 3309709,
-            "url": "https://www.tvmaze.com/episodes/3309709/south-park-27x02-got-a-nut",
-            "name": "Got a Nut",
+            "id": 3314513,
+            "url": "https://www.tvmaze.com/episodes/3314513/south-park-27x03-tba",
+            "name": "TBA",
             "season": 27,
-            "number": 2,
+            "number": 3,
             "type": "regular",
-            "airdate": "2025-08-06",
+            "airdate": "2025-08-13",
             "airtime": "22:00",
-            "airstamp": "2025-08-07T02:00:00+00:00",
+            "airstamp": "2025-08-14T02:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>When Mr. Mackey loses his job, he desperately tries to find a new way to make a living.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3309709"
+                    "href": "https://api.tvmaze.com/episodes/3314513"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/112",
