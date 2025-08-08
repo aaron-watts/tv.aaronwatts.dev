@@ -79,27 +79,27 @@
             }
         },
         "107": {
-            "id": 3304889,
-            "url": "https://www.tvmaze.com/episodes/3304889/bobs-burgers-15x21-mr-safebody",
-            "name": "Mr. Safebody",
+            "id": 3304890,
+            "url": "https://www.tvmaze.com/episodes/3304890/bobs-burgers-15x22-insomnibob",
+            "name": "Insomnibob",
             "season": 15,
-            "number": 21,
+            "number": 22,
             "type": "regular",
-            "airdate": "2025-08-07",
+            "airdate": "2025-08-14",
             "airtime": "20:00",
-            "airstamp": "2025-08-08T00:00:00+00:00",
+            "airstamp": "2025-08-15T00:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/579/1449680.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/579/1449680.jpg"
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/579/1449681.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/579/1449681.jpg"
             },
-            "summary": "<p>Louise's schoolmate Arnold enlists her to direct a promotional video for his new bodyguarding business. Meanwhile, a stolen car blasting 90's alternative rock is abandoned outside of the restaurant.</p>",
+            "summary": "<p>Insomnia sends Bob on a creative spree in the kitchen, but at what cost?.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3304889"
+                    "href": "https://api.tvmaze.com/episodes/3304890"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
@@ -108,15 +108,15 @@
             }
         },
         "73023": {
-            "id": 3294058,
-            "url": "https://www.tvmaze.com/episodes/3294058/dandadan-2x06-we-became-a-family",
-            "name": "We Became a Family",
+            "id": 3294059,
+            "url": "https://www.tvmaze.com/episodes/3294059/dandadan-2x07-episode-7",
+            "name": "Episode 7",
             "season": 2,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2025-08-07",
+            "airdate": "2025-08-14",
             "airtime": "00:26",
-            "airstamp": "2025-08-07T15:26:00+00:00",
+            "airstamp": "2025-08-14T15:26:00+00:00",
             "runtime": 24,
             "rating": {
                 "average": null
@@ -125,7 +125,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3294058"
+                    "href": "https://api.tvmaze.com/episodes/3294059"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/73023",
