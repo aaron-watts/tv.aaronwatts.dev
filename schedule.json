@@ -79,27 +79,24 @@
             }
         },
         "107": {
-            "id": 3304890,
-            "url": "https://www.tvmaze.com/episodes/3304890/bobs-burgers-15x22-insomnibob",
-            "name": "Insomnibob",
-            "season": 15,
-            "number": 22,
+            "id": 3316825,
+            "url": "https://www.tvmaze.com/episodes/3316825/bobs-burgers-16x01-tba",
+            "name": "TBA",
+            "season": 16,
+            "number": 1,
             "type": "regular",
-            "airdate": "2025-08-14",
+            "airdate": "2025-09-28",
             "airtime": "20:00",
-            "airstamp": "2025-08-15T00:00:00+00:00",
+            "airstamp": "2025-09-29T00:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
-            "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/579/1449681.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/579/1449681.jpg"
-            },
-            "summary": "<p>Insomnia sends Bob on a creative spree in the kitchen, but at what cost?.</p>",
+            "image": null,
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3304890"
+                    "href": "https://api.tvmaze.com/episodes/3316825"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
@@ -108,15 +105,15 @@
             }
         },
         "73023": {
-            "id": 3294059,
-            "url": "https://www.tvmaze.com/episodes/3294059/dandadan-2x07-feeling-kinda-gloomy",
-            "name": "Feeling Kinda Gloomy",
+            "id": 3294060,
+            "url": "https://www.tvmaze.com/episodes/3294060/dandadan-2x08-episode-8",
+            "name": "Episode 8",
             "season": 2,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2025-08-14",
+            "airdate": "2025-08-21",
             "airtime": "00:26",
-            "airstamp": "2025-08-14T15:26:00+00:00",
+            "airstamp": "2025-08-21T15:26:00+00:00",
             "runtime": 24,
             "rating": {
                 "average": null
@@ -125,7 +122,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3294059"
+                    "href": "https://api.tvmaze.com/episodes/3294060"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/73023",
