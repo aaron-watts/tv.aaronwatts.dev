@@ -106,8 +106,8 @@
         },
         "73023": {
             "id": 3294060,
-            "url": "https://www.tvmaze.com/episodes/3294060/dandadan-2x08-episode-8",
-            "name": "Episode 8",
+            "url": "https://www.tvmaze.com/episodes/3294060/dandadan-2x08-you-can-do-it-okarun",
+            "name": "You Can Do It, Okarun!",
             "season": 2,
             "number": 8,
             "type": "regular",
@@ -153,6 +153,32 @@
                 "show": {
                     "href": "https://api.tvmaze.com/shows/112",
                     "name": "South Park"
+                }
+            }
+        },
+        "52336": {
+            "id": 3221109,
+            "url": "https://www.tvmaze.com/episodes/3221109/alien-earth-1x03-metamorphosis",
+            "name": "Metamorphosis",
+            "season": 1,
+            "number": 3,
+            "type": "regular",
+            "airdate": "2025-08-19",
+            "airtime": "20:00",
+            "airstamp": "2025-08-20T00:00:00+00:00",
+            "runtime": 60,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": "<p>The team returns home with unexpected cargo; an unsettling experiment occurs, and a new talent is discovered.</p>",
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3221109"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/52336",
+                    "name": "Alien: Earth"
                 }
             }
         }
