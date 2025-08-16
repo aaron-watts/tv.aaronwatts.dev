@@ -20,4 +20,5 @@ shows = [
     '73023', # Dandadan
     '80375', # Bleach Thousand Year Blood War
     '112', # South Park
+    '52336', # Alien: Earth
 ]
