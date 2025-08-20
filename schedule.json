@@ -132,8 +132,8 @@
         },
         "112": {
             "id": 3314513,
-            "url": "https://www.tvmaze.com/episodes/3314513/south-park-27x03-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3314513/south-park-27x03-sickofancy",
+            "name": "Sickofancy",
             "season": 27,
             "number": 3,
             "type": "regular",
@@ -145,7 +145,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>Towelie goes to Washington, D.C.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3314513"
@@ -157,24 +157,24 @@
             }
         },
         "52336": {
-            "id": 3221109,
-            "url": "https://www.tvmaze.com/episodes/3221109/alien-earth-1x03-metamorphosis",
-            "name": "Metamorphosis",
+            "id": 3221110,
+            "url": "https://www.tvmaze.com/episodes/3221110/alien-earth-1x04-observation",
+            "name": "Observation",
             "season": 1,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2025-08-19",
+            "airdate": "2025-08-26",
             "airtime": "20:00",
-            "airstamp": "2025-08-20T00:00:00+00:00",
+            "airstamp": "2025-08-27T00:00:00+00:00",
             "runtime": 60,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>The team returns home with unexpected cargo; an unsettling experiment occurs, and a new talent is discovered.</p>",
+            "summary": "<p>An unexpected connection is formed while a covert plot puts everyone in danger.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3221109"
+                    "href": "https://api.tvmaze.com/episodes/3221110"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/52336",
