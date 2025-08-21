@@ -131,24 +131,24 @@
             }
         },
         "112": {
-            "id": 3314513,
-            "url": "https://www.tvmaze.com/episodes/3314513/south-park-27x03-sickofancy",
-            "name": "Sickofancy",
+            "id": 3314514,
+            "url": "https://www.tvmaze.com/episodes/3314514/south-park-27x04-tba",
+            "name": "TBA",
             "season": 27,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2025-08-20",
+            "airdate": "2025-09-03",
             "airtime": "22:00",
-            "airstamp": "2025-08-21T02:00:00+00:00",
+            "airstamp": "2025-09-04T02:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Towelie goes to Washington, D.C.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3314513"
+                    "href": "https://api.tvmaze.com/episodes/3314514"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/112",
