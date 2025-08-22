@@ -105,15 +105,15 @@
             }
         },
         "73023": {
-            "id": 3294060,
-            "url": "https://www.tvmaze.com/episodes/3294060/dandadan-2x08-you-can-do-it-okarun",
-            "name": "You Can Do It, Okarun!",
+            "id": 3294061,
+            "url": "https://www.tvmaze.com/episodes/3294061/dandadan-2x09-episode-9",
+            "name": "Episode 9",
             "season": 2,
-            "number": 8,
+            "number": 9,
             "type": "regular",
-            "airdate": "2025-08-21",
+            "airdate": "2025-08-28",
             "airtime": "00:26",
-            "airstamp": "2025-08-21T15:26:00+00:00",
+            "airstamp": "2025-08-28T15:26:00+00:00",
             "runtime": 24,
             "rating": {
                 "average": null
@@ -122,7 +122,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3294060"
+                    "href": "https://api.tvmaze.com/episodes/3294061"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/73023",
