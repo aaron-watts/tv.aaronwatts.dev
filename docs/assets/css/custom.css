@@ -1,0 +1,127 @@
+h1,
+.search-result span,
+.search-result img,
+#back-to-search {
+    cursor: pointer;
+    padding-top: 1rem;
+}
+
+.search-result span,
+.search-result img,
+#back-to-search,
+details summary {
+    color: var(--accent);
+}
+.search-result span:hover,
+.search-result img:hover,
+#back-to-search:hover,
+details summary:hover {
+    color: var(--accent-hover);
+}
+
+main #default *:not(.notice) {
+    text-align: center;
+}
+
+h1 > svg {
+    fill: var(--text);
+    height: 1.4em;
+    width: auto;
+    margin: -.3em 0;
+}
+
+button > svg {
+    fill: var(--accent-text);
+    height: 1.5em;
+    width: 1.5em;
+    margin: -.3em 0;
+}
+
+table {
+    width: 100%;
+}
+th:first-of-type {
+    width: 12%;
+}
+th:last-of-type {
+    width: 20%;
+}
+
+.hidden {
+    display: none;
+}
+
+.search-result,
+.show-header {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.search-result img,
+.show-header img {
+    display: block;
+    margin-block-end: 1em;
+    margin-inline: 2em;
+    width: 210px;
+    max-width: 30vw;
+}
+
+#back-to-search,
+#search-summary {
+    margin-bottom: 1.3rem;
+}
+
+form#search {
+    margin-block: 2.6rem -.8rem;
+}
+
+footer > div:not(div:last-of-type) {
+    margin-block-end: 2rem;
+}
+
+footer > div:first-of-type {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#github-logo {
+    height: 5rem;
+}
+
+#tvmaze {
+    height: 4.6em;
+    width: auto;
+}
+
+footer > div:first-of-type a {
+    color: var(--text-light);
+    text-decoration: none;
+    font-size: 1.4em;
+}
+
+@media only screen and (max-width: 720px) {
+    footer > div:first-of-type {
+        flex-direction:column;
+        justify-content: space-between;
+        margin-block-end: 2rem;
+    }
+    footer > div:first-of-type * {
+        margin-block: .2rem;
+    }
+
+    form#search input {
+        width: 70%;
+    }
+}
+
+img#github-logo {
+    content: url("../images/github-mark.png");
+}
+@media (prefers-color-scheme: dark) {
+    img#github-logo {
+        content: url("../images/github-mark-white.png");
+    }
+}

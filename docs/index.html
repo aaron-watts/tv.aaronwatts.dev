@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV Show Finder</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+
+    <link rel="stylesheet" href="assets/css/simple.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+</head>
+
+<body>
+    <header>
+        <h1>
+            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#1f1f1f"><path d="M200-320h80q0-33-23.5-56.5T200-400v80Zm142 0h58q0-83-58.5-141.5T200-520v58q59 0 100.5 41.5T342-320Zm120 0h58q0-66-25-124.5t-68.5-102Q383-590 324.5-615T200-640v58q109 0 185.5 76.5T462-320ZM320-120v-80H160q-33 0-56.5-23.5T80-280v-480q0-33 23.5-56.5T160-840h640q33 0 56.5 23.5T880-760v480q0 33-23.5 56.5T800-200H640v80H320ZM160-280h640v-480H160v480Zm0 0v-480 480Z"/></svg>
+            TV Show Finder
+        </h1>
+        <form id="search">
+            <div>
+                <input type="text" name="query" placeholder="Search for Shows">
+                <button type="submit">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960"><path d="M784-120 532-372q-30 24-69 38t-83 14q-109 0-184.5-75.5T120-580q0-109 75.5-184.5T380-840q109 0 184.5 75.5T640-580q0 44-14 83t-38 69l252 252-56 56ZM380-400q75 0 127.5-52.5T560-580q0-75-52.5-127.5T380-760q-75 0-127.5 52.5T200-580q0 75 52.5 127.5T380-400Z"/></svg>
+                </button>
+            </div>
+        </form>
+    </header>
+    <main>
+        <div id="default">
+            <h2>Follow your shows with Google Calendar and Apps Script</h2> 
+            <p>
+                Clone the repo: <a href="https://github.com/aaron-watts/tv.aaronwatts.dev" target="_blank">https://github.com/aaron-watts/tv.aaronwatts.dev</a>
+            </p>
+            <p class="notice">
+                NOTE: requires some (very basic) knowledge of GitHub, Python and Javascript
+            </p>
+        </div>
+        <div id="search-results" class="hidden"></div>
+        <div id="show-details" class="hidden">
+            <div id="back-to-search">Back to search</div>
+            <div class="show-header">
+                <div>
+                    <h2 id="show-title"></h2>
+                    <p>
+                        ID: <span id="show-id"></span><br>
+                        Status: <span id="show-status"></span>
+                    </p>
+                </div>
+                <img id="show-img" src="" alt="">
+            </div>
+            <details id="spoiler">
+                <summary>Episodes</summary>
+                <form>
+                    <p>
+                        <select id="season-select">
+                            <option selected="selected"></option>
+                        </select>
+                    </p>
+                </form>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Title</th>
+                            <th>Air Date</th>
+                        </tr>
+                    </thead>
+                    <tbody id="episodes">
+                    </tbody>
+                </table>
+            </details>
+        </div>
+    </main>
+    <footer>
+        <div>
+           <a href="https://aaronwatts.dev" target="_blank">aaronwatts.dev</a>
+        </div>
+        <div>
+            <a href="https://github.com/aaron-watts/tv.aaronwatts.dev" target="_blank">
+              <img id="github-logo" alt="Github Repo">
+            </a>
+        </div>
+        <div>
+            <a href="https://www.tvmaze.com/" target="_blank">
+                <img id="tvmaze" src="https://static.tvmaze.com/images/tvm-header-logo.png" alt="">
+            </a>
+        </div>
+    </footer>
+    <script src="assets/script/app.js"></script>
+</body>
+
+</html>
