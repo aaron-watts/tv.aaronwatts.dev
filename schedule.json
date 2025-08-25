@@ -181,6 +181,32 @@
                     "name": "Alien: Earth"
                 }
             }
+        },
+        "50603": {
+            "id": 3296783,
+            "url": "https://www.tvmaze.com/episodes/3296783/peacemaker-2x02-chapter-02-a-man-is-only-as-good-as-his-bird",
+            "name": "Chapter 02: A Man Is Only as Good as His Bird",
+            "season": 2,
+            "number": 2,
+            "type": "regular",
+            "airdate": "2025-08-28",
+            "airtime": "",
+            "airstamp": "2025-08-28T12:00:00+00:00",
+            "runtime": 48,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3296783"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/50603",
+                    "name": "Peacemaker"
+                }
+            }
         }
     }
 }
