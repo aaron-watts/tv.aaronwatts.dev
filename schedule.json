@@ -170,7 +170,10 @@
             "rating": {
                 "average": null
             },
-            "image": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/584/1460874.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/584/1460874.jpg"
+            },
             "summary": "<p>An unexpected connection is formed while a covert plot puts everyone in danger.</p>",
             "_links": {
                 "self": {
