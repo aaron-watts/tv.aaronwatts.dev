@@ -52,6 +52,32 @@
                 }
             }
         },
+        "47182": {
+            "id": 3343296,
+            "url": "https://www.tvmaze.com/episodes/3343296/smiling-friends-3x01-tba",
+            "name": "TBA",
+            "season": 3,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2025-10-05",
+            "airtime": "00:00",
+            "airstamp": "2025-10-06T04:00:00+00:00",
+            "runtime": 15,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3343296"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/47182",
+                    "name": "Smiling Friends"
+                }
+            }
+        },
         "538": {
             "id": 3308249,
             "url": "https://www.tvmaze.com/episodes/3308249/futurama-13x01-episode-1",
@@ -105,15 +131,15 @@
             }
         },
         "73023": {
-            "id": 3294061,
-            "url": "https://www.tvmaze.com/episodes/3294061/dandadan-2x09-i-want-to-rebuild-the-house",
-            "name": "I Want to Rebuild the House",
+            "id": 3294062,
+            "url": "https://www.tvmaze.com/episodes/3294062/dandadan-2x10-episode-10",
+            "name": "Episode 10",
             "season": 2,
-            "number": 9,
+            "number": 10,
             "type": "regular",
-            "airdate": "2025-08-28",
+            "airdate": "2025-09-04",
             "airtime": "00:26",
-            "airstamp": "2025-08-28T15:26:00+00:00",
+            "airstamp": "2025-09-04T15:26:00+00:00",
             "runtime": 24,
             "rating": {
                 "average": null
@@ -122,7 +148,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3294061"
+                    "href": "https://api.tvmaze.com/episodes/3294062"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/73023",
@@ -183,27 +209,24 @@
             }
         },
         "50603": {
-            "id": 3296783,
-            "url": "https://www.tvmaze.com/episodes/3296783/peacemaker-2x02-chapter-02-a-man-is-only-as-good-as-his-bird",
-            "name": "Chapter 02: A Man Is Only as Good as His Bird",
+            "id": 3296784,
+            "url": "https://www.tvmaze.com/episodes/3296784/peacemaker-2x03-chapter-03-another-rick-up-my-sleeve",
+            "name": "Chapter 03: Another Rick Up My Sleeve",
             "season": 2,
-            "number": 2,
+            "number": 3,
             "type": "regular",
-            "airdate": "2025-08-28",
+            "airdate": "2025-09-04",
             "airtime": "",
-            "airstamp": "2025-08-28T12:00:00+00:00",
-            "runtime": 48,
+            "airstamp": "2025-09-04T12:00:00+00:00",
+            "runtime": 38,
             "rating": {
                 "average": null
             },
-            "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/584/1460982.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/584/1460982.jpg"
-            },
+            "image": null,
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3296783"
+                    "href": "https://api.tvmaze.com/episodes/3296784"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/50603",
