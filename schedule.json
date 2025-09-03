@@ -80,8 +80,8 @@
         },
         "538": {
             "id": 3308249,
-            "url": "https://www.tvmaze.com/episodes/3308249/futurama-13x01-episode-1",
-            "name": "Episode 1",
+            "url": "https://www.tvmaze.com/episodes/3308249/futurama-13x01-destroy-tall-monsters",
+            "name": "Destroy Tall Monsters",
             "season": 13,
             "number": 1,
             "type": "regular",
@@ -183,27 +183,24 @@
             }
         },
         "52336": {
-            "id": 3225035,
-            "url": "https://www.tvmaze.com/episodes/3225035/alien-earth-1x05-in-space-no-one",
-            "name": "In Space, No One...",
+            "id": 3225036,
+            "url": "https://www.tvmaze.com/episodes/3225036/alien-earth-1x06-the-fly",
+            "name": "The Fly",
             "season": 1,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2025-09-02",
+            "airdate": "2025-09-09",
             "airtime": "20:00",
-            "airstamp": "2025-09-03T00:00:00+00:00",
-            "runtime": 92,
+            "airstamp": "2025-09-10T00:00:00+00:00",
+            "runtime": 60,
             "rating": {
                 "average": null
             },
-            "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/585/1462578.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/585/1462578.jpg"
-            },
-            "summary": "<p>An outer-space vessel in peril leads to a dangerous reckoning.</p>",
+            "image": null,
+            "summary": "<p>Tensions rise as powerful enemies confront each other, a dangerous plan unfolds, and curiosity leads to deadly consequences.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3225035"
+                    "href": "https://api.tvmaze.com/episodes/3225036"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/52336",
