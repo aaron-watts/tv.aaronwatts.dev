@@ -158,8 +158,8 @@
         },
         "112": {
             "id": 3314514,
-            "url": "https://www.tvmaze.com/episodes/3314514/south-park-27x04-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3314514/south-park-27x04-wok-is-dead",
+            "name": "Wok is Dead",
             "season": 27,
             "number": 4,
             "type": "regular",
@@ -171,7 +171,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>Butters experiences the reality of tariffs when he has to buy a Labubu doll for his girlfriend's birthday.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3314514"
