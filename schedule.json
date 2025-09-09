@@ -218,7 +218,7 @@
             "airdate": "2025-09-09",
             "airtime": "20:00",
             "airstamp": "2025-09-10T00:00:00+00:00",
-            "runtime": 60,
+            "runtime": 80,
             "rating": {
                 "average": null
             },
