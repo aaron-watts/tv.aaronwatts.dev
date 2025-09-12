@@ -132,14 +132,14 @@
         },
         "107": {
             "id": 3316825,
-            "url": "https://www.tvmaze.com/episodes/3316825/bobs-burgers-16x01-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3316825/bobs-burgers-16x01-grand-pre-pre-pre-opening",
+            "name": "Grand Pre-Pre-Pre-Opening",
             "season": 16,
             "number": 1,
             "type": "regular",
             "airdate": "2025-09-28",
-            "airtime": "20:00",
-            "airstamp": "2025-09-29T00:00:00+00:00",
+            "airtime": "21:30",
+            "airstamp": "2025-09-29T01:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -157,15 +157,15 @@
             }
         },
         "73023": {
-            "id": 3294063,
-            "url": "https://www.tvmaze.com/episodes/3294063/dandadan-2x11-hey-its-a-kaiju",
-            "name": "Hey, It's a Kaiju!",
+            "id": 3294064,
+            "url": "https://www.tvmaze.com/episodes/3294064/dandadan-2x12-episode-12",
+            "name": "Episode 12",
             "season": 2,
-            "number": 11,
+            "number": 12,
             "type": "regular",
-            "airdate": "2025-09-11",
+            "airdate": "2025-09-18",
             "airtime": "00:26",
-            "airstamp": "2025-09-11T15:26:00+00:00",
+            "airstamp": "2025-09-18T15:26:00+00:00",
             "runtime": 24,
             "rating": {
                 "average": null
@@ -174,7 +174,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3294063"
+                    "href": "https://api.tvmaze.com/episodes/3294064"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/73023",
@@ -235,16 +235,16 @@
             }
         },
         "50603": {
-            "id": 3296785,
-            "url": "https://www.tvmaze.com/episodes/3296785/peacemaker-2x04-chapter-04-need-i-say-door",
-            "name": "Chapter 04: Need I Say Door",
+            "id": 3296786,
+            "url": "https://www.tvmaze.com/episodes/3296786/peacemaker-2x05-chapter-05-back-to-the-suture",
+            "name": "Chapter 05: Back to the Suture",
             "season": 2,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2025-09-11",
+            "airdate": "2025-09-18",
             "airtime": "",
-            "airstamp": "2025-09-11T12:00:00+00:00",
-            "runtime": 39,
+            "airstamp": "2025-09-18T12:00:00+00:00",
+            "runtime": 37,
             "rating": {
                 "average": null
             },
@@ -252,7 +252,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3296785"
+                    "href": "https://api.tvmaze.com/episodes/3296786"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/50603",
