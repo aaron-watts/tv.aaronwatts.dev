@@ -145,7 +145,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>Bob and Linda are on the verge of a big decision which brings up memories of when the restaurant first opened. Meanwhile, the kids embark on a new musical project.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3316825"
@@ -158,8 +158,8 @@
         },
         "73023": {
             "id": 3294064,
-            "url": "https://www.tvmaze.com/episodes/3294064/dandadan-2x12-episode-12",
-            "name": "Episode 12",
+            "url": "https://www.tvmaze.com/episodes/3294064/dandadan-2x12-clash-space-kaiju-vs-giant-robot",
+            "name": "Clash! Space Kaiju vs. Giant Robot!",
             "season": 2,
             "number": 12,
             "type": "regular",
