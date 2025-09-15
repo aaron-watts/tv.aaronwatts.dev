@@ -118,8 +118,11 @@
             "rating": {
                 "average": null
             },
-            "image": null,
-            "summary": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/587/1469336.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/587/1469336.jpg"
+            },
+            "summary": "<p>Bender undergoes a risky treatment to make himself gigantic.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3308249"
