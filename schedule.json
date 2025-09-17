@@ -14,7 +14,10 @@
             "rating": {
                 "average": null
             },
-            "image": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/588/1470124.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/588/1470124.jpg"
+            },
             "summary": null,
             "_links": {
                 "self": {
@@ -183,27 +186,24 @@
             }
         },
         "52336": {
-            "id": 3225037,
-            "url": "https://www.tvmaze.com/episodes/3225037/alien-earth-1x07-emergence",
-            "name": "Emergence",
+            "id": 3225038,
+            "url": "https://www.tvmaze.com/episodes/3225038/alien-earth-1x08-the-real-monsters",
+            "name": "The Real Monsters",
             "season": 1,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2025-09-16",
+            "airdate": "2025-09-23",
             "airtime": "20:00",
-            "airstamp": "2025-09-17T00:00:00+00:00",
+            "airstamp": "2025-09-24T00:00:00+00:00",
             "runtime": 60,
             "rating": {
                 "average": null
             },
-            "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/587/1469977.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/587/1469977.jpg"
-            },
-            "summary": "<p>An escape plan is hatched leading to a breaking of factions, betrayals, and a shocking confrontation.</p>",
+            "image": null,
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3225037"
+                    "href": "https://api.tvmaze.com/episodes/3225038"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/52336",
