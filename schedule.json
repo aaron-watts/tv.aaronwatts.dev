@@ -1,27 +1,27 @@
 {
     "schedule": {
         "62998": {
-            "id": 3262779,
-            "url": "https://www.tvmaze.com/episodes/3262779/gen-v-2x01-episode-1",
-            "name": "Episode 1",
+            "id": 3262782,
+            "url": "https://www.tvmaze.com/episodes/3262782/gen-v-2x04-episode-4",
+            "name": "Episode 4",
             "season": 2,
-            "number": 1,
+            "number": 4,
             "type": "regular",
-            "airdate": "2025-09-17",
+            "airdate": "2025-09-24",
             "airtime": "",
-            "airstamp": "2025-09-17T12:00:00+00:00",
+            "airstamp": "2025-09-24T12:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/588/1470124.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/588/1470124.jpg"
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/588/1470133.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/588/1470133.jpg"
             },
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3262779"
+                    "href": "https://api.tvmaze.com/episodes/3262782"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/62998",
@@ -62,9 +62,9 @@
             "season": 3,
             "number": 1,
             "type": "regular",
-            "airdate": "2025-10-05",
+            "airdate": "2025-10-12",
             "airtime": "23:45",
-            "airstamp": "2025-10-05T14:45:00+00:00",
+            "airstamp": "2025-10-12T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -166,9 +166,9 @@
             "season": 27,
             "number": 5,
             "type": "regular",
-            "airdate": "2025-09-17",
+            "airdate": "2025-09-24",
             "airtime": "22:00",
-            "airstamp": "2025-09-18T02:00:00+00:00",
+            "airstamp": "2025-09-25T02:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
