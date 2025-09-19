@@ -133,32 +133,6 @@
                 }
             }
         },
-        "73023": {
-            "id": 3294064,
-            "url": "https://www.tvmaze.com/episodes/3294064/dandadan-2x12-clash-space-kaiju-vs-giant-robot",
-            "name": "Clash! Space Kaiju vs. Giant Robot!",
-            "season": 2,
-            "number": 12,
-            "type": "regular",
-            "airdate": "2025-09-18",
-            "airtime": "00:26",
-            "airstamp": "2025-09-18T15:26:00+00:00",
-            "runtime": 24,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": null,
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3294064"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/73023",
-                    "name": "Dandadan"
-                }
-            }
-        },
         "112": {
             "id": 3314515,
             "url": "https://www.tvmaze.com/episodes/3314515/south-park-27x05-tba",
@@ -212,16 +186,16 @@
             }
         },
         "50603": {
-            "id": 3296786,
-            "url": "https://www.tvmaze.com/episodes/3296786/peacemaker-2x05-chapter-05-back-to-the-suture",
-            "name": "Chapter 05: Back to the Suture",
+            "id": 3296787,
+            "url": "https://www.tvmaze.com/episodes/3296787/peacemaker-2x06-chapter-06-ignorance-is-chris",
+            "name": "Chapter 06: Ignorance Is Chris",
             "season": 2,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2025-09-18",
+            "airdate": "2025-09-25",
             "airtime": "",
-            "airstamp": "2025-09-18T12:00:00+00:00",
-            "runtime": 37,
+            "airstamp": "2025-09-25T12:00:00+00:00",
+            "runtime": null,
             "rating": {
                 "average": null
             },
@@ -229,7 +203,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3296786"
+                    "href": "https://api.tvmaze.com/episodes/3296787"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/50603",
