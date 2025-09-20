@@ -174,7 +174,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>A new power dynamic emerges.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3225038"
