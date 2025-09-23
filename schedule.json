@@ -89,8 +89,8 @@
             "number": 1,
             "type": "regular",
             "airdate": "2025-10-05",
-            "airtime": "00:00",
-            "airstamp": "2025-10-06T04:00:00+00:00",
+            "airtime": "23:30",
+            "airstamp": "2025-10-06T03:30:00+00:00",
             "runtime": 15,
             "rating": {
                 "average": null
@@ -173,7 +173,10 @@
             "rating": {
                 "average": null
             },
-            "image": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/588/1472205.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/588/1472205.jpg"
+            },
             "summary": "<p>A new power dynamic emerges.</p>",
             "_links": {
                 "self": {
