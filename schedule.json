@@ -135,8 +135,8 @@
         },
         "112": {
             "id": 3314515,
-            "url": "https://www.tvmaze.com/episodes/3314515/south-park-27x05-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3314515/south-park-27x05-conflict-of-interest",
+            "name": "Conflict of Interest",
             "season": 27,
             "number": 5,
             "type": "regular",
@@ -148,7 +148,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>Kyle and Cartman are at odds when a prediction markets app gets popular with their fellow students.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3314515"
@@ -156,35 +156,6 @@
                 "show": {
                     "href": "https://api.tvmaze.com/shows/112",
                     "name": "South Park"
-                }
-            }
-        },
-        "52336": {
-            "id": 3225038,
-            "url": "https://www.tvmaze.com/episodes/3225038/alien-earth-1x08-the-real-monsters",
-            "name": "The Real Monsters",
-            "season": 1,
-            "number": 8,
-            "type": "regular",
-            "airdate": "2025-09-23",
-            "airtime": "20:00",
-            "airstamp": "2025-09-24T00:00:00+00:00",
-            "runtime": 63,
-            "rating": {
-                "average": null
-            },
-            "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/588/1472205.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/588/1472205.jpg"
-            },
-            "summary": "<p>A new power dynamic emerges.</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3225038"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/52336",
-                    "name": "Alien: Earth"
                 }
             }
         },
