@@ -105,24 +105,24 @@
             }
         },
         "107": {
-            "id": 3316825,
-            "url": "https://www.tvmaze.com/episodes/3316825/bobs-burgers-16x01-grand-pre-pre-pre-opening",
-            "name": "Grand Pre-Pre-Pre-Opening",
+            "id": 3367721,
+            "url": "https://www.tvmaze.com/episodes/3367721/bobs-burgers-16x02-til-death-do-us-art",
+            "name": "'Til Death Do Us Art",
             "season": 16,
-            "number": 1,
+            "number": 2,
             "type": "regular",
-            "airdate": "2025-09-28",
+            "airdate": "2025-10-05",
             "airtime": "21:30",
-            "airstamp": "2025-09-29T01:30:00+00:00",
+            "airstamp": "2025-10-06T01:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Bob and Linda are on the verge of a big decision which brings up memories of when the restaurant first opened. Meanwhile, the kids embark on a new musical project.</p>",
+            "summary": "<p>Linda becomes concerned when Gayle turns her love life into a performance art piece.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3316825"
+                    "href": "https://api.tvmaze.com/episodes/3367721"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
