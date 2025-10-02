@@ -1,15 +1,15 @@
 {
     "schedule": {
         "62998": {
-            "id": 3262783,
-            "url": "https://www.tvmaze.com/episodes/3262783/gen-v-2x05-episode-5",
-            "name": "Episode 5",
+            "id": 3262784,
+            "url": "https://www.tvmaze.com/episodes/3262784/gen-v-2x06-episode-6",
+            "name": "Episode 6",
             "season": 2,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2025-10-01",
+            "airdate": "2025-10-08",
             "airtime": "",
-            "airstamp": "2025-10-01T12:00:00+00:00",
+            "airstamp": "2025-10-08T12:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
@@ -18,7 +18,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3262783"
+                    "href": "https://api.tvmaze.com/episodes/3262784"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/62998",
