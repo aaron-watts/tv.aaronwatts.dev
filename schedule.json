@@ -157,16 +157,16 @@
             }
         },
         "50603": {
-            "id": 3296788,
-            "url": "https://www.tvmaze.com/episodes/3296788/peacemaker-2x07-chapter-07-like-a-keith-in-the-night",
-            "name": "Chapter 07: Like a Keith in the Night",
+            "id": 3296789,
+            "url": "https://www.tvmaze.com/episodes/3296789/peacemaker-2x08-chapter-08-full-nelson",
+            "name": "Chapter 08: Full Nelson",
             "season": 2,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2025-10-02",
+            "airdate": "2025-10-09",
             "airtime": "",
-            "airstamp": "2025-10-02T12:00:00+00:00",
-            "runtime": 44,
+            "airstamp": "2025-10-09T12:00:00+00:00",
+            "runtime": null,
             "rating": {
                 "average": null
             },
@@ -174,7 +174,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3296788"
+                    "href": "https://api.tvmaze.com/episodes/3296789"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/50603",
