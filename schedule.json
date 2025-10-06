@@ -105,24 +105,24 @@
             }
         },
         "107": {
-            "id": 3367721,
-            "url": "https://www.tvmaze.com/episodes/3367721/bobs-burgers-16x02-til-death-do-us-art",
-            "name": "'Til Death Do Us Art",
+            "id": 3378085,
+            "url": "https://www.tvmaze.com/episodes/3378085/bobs-burgers-16x03-the-twinnening",
+            "name": "The Twinnening",
             "season": 16,
-            "number": 2,
+            "number": 3,
             "type": "regular",
-            "airdate": "2025-10-05",
+            "airdate": "2025-10-19",
             "airtime": "21:30",
-            "airstamp": "2025-10-06T01:30:00+00:00",
+            "airstamp": "2025-10-20T01:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Linda becomes concerned when Gayle turns her love life into a performance art piece.</p>",
+            "summary": "<p>Teddy takes a handyman job next door to the restaurant and finds himself trapped inside a store full of spooky antiques.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3367721"
+                    "href": "https://api.tvmaze.com/episodes/3378085"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
