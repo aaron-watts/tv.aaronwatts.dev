@@ -54,8 +54,8 @@
         },
         "4201": {
             "id": 3353835,
-            "url": "https://www.tvmaze.com/episodes/3353835/one-punch-man-3x01-episode-1",
-            "name": "Episode 1",
+            "url": "https://www.tvmaze.com/episodes/3353835/one-punch-man-3x01-the-strategy-meeting",
+            "name": "The Strategy Meeting",
             "season": 3,
             "number": 1,
             "type": "regular",
@@ -79,15 +79,15 @@
             }
         },
         "47182": {
-            "id": 3343296,
-            "url": "https://www.tvmaze.com/episodes/3343296/smiling-friends-3x01-silly-samuel",
-            "name": "Silly Samuel",
+            "id": 3387095,
+            "url": "https://www.tvmaze.com/episodes/3387095/smiling-friends-3x02-le-voyage-incroyable-de-monsieur-grenouille",
+            "name": "Le Voyage Incroyable de Monsieur Grenouille",
             "season": 3,
-            "number": 1,
+            "number": 2,
             "type": "regular",
-            "airdate": "2025-10-05",
+            "airdate": "2025-10-12",
             "airtime": "23:30",
-            "airstamp": "2025-10-06T03:30:00+00:00",
+            "airstamp": "2025-10-13T03:30:00+00:00",
             "runtime": 15,
             "rating": {
                 "average": null
@@ -96,7 +96,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3343296"
+                    "href": "https://api.tvmaze.com/episodes/3387095"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/47182",
