@@ -1,24 +1,24 @@
 {
     "schedule": {
         "62998": {
-            "id": 3262784,
-            "url": "https://www.tvmaze.com/episodes/3262784/gen-v-2x06-episode-6",
-            "name": "Episode 6",
+            "id": 3262785,
+            "url": "https://www.tvmaze.com/episodes/3262785/gen-v-2x07-hell-week",
+            "name": "Hell Week",
             "season": 2,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2025-10-08",
+            "airdate": "2025-10-15",
             "airtime": "",
-            "airstamp": "2025-10-08T12:00:00+00:00",
+            "airstamp": "2025-10-15T12:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>A Reminder from the Office of Student Conduct: God U strictly prohibits hazing. Students should never be called demeaning names, forced to wear humiliating clothes, or treated like any animal. If you see something, say something! No one will call you a narc.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3262784"
+                    "href": "https://api.tvmaze.com/episodes/3262785"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/62998",
