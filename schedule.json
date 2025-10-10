@@ -36,7 +36,7 @@
             "airdate": "2025-11-26",
             "airtime": "",
             "airstamp": "2025-11-26T12:00:00+00:00",
-            "runtime": null,
+            "runtime": 96,
             "rating": {
                 "average": 10
             },
@@ -153,32 +153,6 @@
                 "show": {
                     "href": "https://api.tvmaze.com/shows/112",
                     "name": "South Park"
-                }
-            }
-        },
-        "50603": {
-            "id": 3296789,
-            "url": "https://www.tvmaze.com/episodes/3296789/peacemaker-2x08-chapter-08-full-nelson",
-            "name": "Chapter 08: Full Nelson",
-            "season": 2,
-            "number": 8,
-            "type": "regular",
-            "airdate": "2025-10-09",
-            "airtime": "",
-            "airstamp": "2025-10-09T12:00:00+00:00",
-            "runtime": null,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": null,
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3296789"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/50603",
-                    "name": "Peacemaker"
                 }
             }
         }
