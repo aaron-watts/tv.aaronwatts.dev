@@ -53,15 +53,15 @@
             }
         },
         "4201": {
-            "id": 3353835,
-            "url": "https://www.tvmaze.com/episodes/3353835/one-punch-man-3x01-the-strategy-meeting",
-            "name": "The Strategy Meeting",
+            "id": 3395344,
+            "url": "https://www.tvmaze.com/episodes/3395344/one-punch-man-3x02-episode-2",
+            "name": "Episode 2",
             "season": 3,
-            "number": 1,
+            "number": 2,
             "type": "regular",
-            "airdate": "2025-10-12",
+            "airdate": "2025-10-19",
             "airtime": "23:45",
-            "airstamp": "2025-10-12T14:45:00+00:00",
+            "airstamp": "2025-10-19T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -70,7 +70,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3353835"
+                    "href": "https://api.tvmaze.com/episodes/3395344"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
