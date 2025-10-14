@@ -79,15 +79,15 @@
             }
         },
         "47182": {
-            "id": 3387095,
-            "url": "https://www.tvmaze.com/episodes/3387095/smiling-friends-3x02-le-voyage-incroyable-de-monsieur-grenouille",
-            "name": "Le Voyage Incroyable de Monsieur Grenouille",
+            "id": 3387096,
+            "url": "https://www.tvmaze.com/episodes/3387096/smiling-friends-3x03-mole-man",
+            "name": "Mole Man",
             "season": 3,
-            "number": 2,
+            "number": 3,
             "type": "regular",
-            "airdate": "2025-10-12",
+            "airdate": "2025-10-19",
             "airtime": "23:30",
-            "airstamp": "2025-10-13T03:30:00+00:00",
+            "airstamp": "2025-10-20T03:30:00+00:00",
             "runtime": 15,
             "rating": {
                 "average": null
@@ -96,7 +96,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3387095"
+                    "href": "https://api.tvmaze.com/episodes/3387096"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/47182",
