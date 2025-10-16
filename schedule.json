@@ -1,24 +1,24 @@
 {
     "schedule": {
         "62998": {
-            "id": 3262785,
-            "url": "https://www.tvmaze.com/episodes/3262785/gen-v-2x07-hell-week",
-            "name": "Hell Week",
+            "id": 3262786,
+            "url": "https://www.tvmaze.com/episodes/3262786/gen-v-2x08-trojan",
+            "name": "Trojan",
             "season": 2,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2025-10-15",
+            "airdate": "2025-10-22",
             "airtime": "",
-            "airstamp": "2025-10-15T12:00:00+00:00",
+            "airstamp": "2025-10-22T12:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>A Reminder from the Office of Student Conduct: God U strictly prohibits hazing. Students should never be called demeaning names, forced to wear humiliating clothes, or treated like any animal. If you see something, say something! No one will call you a narc.</p>",
+            "summary": "<p>Hello {FirstName} {LastName}. You've been selected for the 10:30 AM session.** Please be on time. Once a session begins, students may not leave for any reason. Check in with Vance outside of the Advanced Seminar Room when you arrive. Good luck! ** By accepting this invitation, you assume inherent risks involved with this activity including but not limited to physical harm, injury, or death.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3262785"
+                    "href": "https://api.tvmaze.com/episodes/3262786"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/62998",
@@ -131,15 +131,15 @@
             }
         },
         "112": {
-            "id": 3314516,
-            "url": "https://www.tvmaze.com/episodes/3314516/south-park-27x06-tba",
+            "id": 3314517,
+            "url": "https://www.tvmaze.com/episodes/3314517/south-park-27x07-tba",
             "name": "TBA",
             "season": 27,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2025-10-15",
+            "airdate": "2025-10-29",
             "airtime": "22:00",
-            "airstamp": "2025-10-16T02:00:00+00:00",
+            "airstamp": "2025-10-30T02:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -148,7 +148,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3314516"
+                    "href": "https://api.tvmaze.com/episodes/3314517"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/112",
