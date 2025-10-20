@@ -53,15 +53,15 @@
             }
         },
         "4201": {
-            "id": 3395344,
-            "url": "https://www.tvmaze.com/episodes/3395344/one-punch-man-3x02-monster-traits",
-            "name": "Monster Traits",
+            "id": 3395345,
+            "url": "https://www.tvmaze.com/episodes/3395345/one-punch-man-3x03-episode-3",
+            "name": "Episode 3",
             "season": 3,
-            "number": 2,
+            "number": 3,
             "type": "regular",
-            "airdate": "2025-10-19",
+            "airdate": "2025-10-26",
             "airtime": "23:45",
-            "airstamp": "2025-10-19T14:45:00+00:00",
+            "airstamp": "2025-10-26T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -70,7 +70,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3395344"
+                    "href": "https://api.tvmaze.com/episodes/3395345"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
@@ -105,24 +105,24 @@
             }
         },
         "107": {
-            "id": 3378085,
-            "url": "https://www.tvmaze.com/episodes/3378085/bobs-burgers-16x03-the-twinnening",
-            "name": "The Twinnening",
+            "id": 3390062,
+            "url": "https://www.tvmaze.com/episodes/3390062/bobs-burgers-16x04-the-skids-in-the-hall",
+            "name": "The Skids in the Hall",
             "season": 16,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2025-10-19",
+            "airdate": "2025-10-26",
             "airtime": "21:30",
-            "airstamp": "2025-10-20T01:30:00+00:00",
+            "airstamp": "2025-10-27T01:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Teddy takes a handyman job next door to the restaurant and finds himself trapped inside a store full of spooky antiques.</p>",
+            "summary": "<p>Louise and Gene try to help Tina clear her name after she is fired as a Hall Monitor.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3378085"
+                    "href": "https://api.tvmaze.com/episodes/3390062"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
