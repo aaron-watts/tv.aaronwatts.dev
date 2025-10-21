@@ -54,8 +54,8 @@
         },
         "4201": {
             "id": 3395345,
-            "url": "https://www.tvmaze.com/episodes/3395345/one-punch-man-3x03-episode-3",
-            "name": "Episode 3",
+            "url": "https://www.tvmaze.com/episodes/3395345/one-punch-man-3x03-organism-limits",
+            "name": "Organism Limits",
             "season": 3,
             "number": 3,
             "type": "regular",
@@ -79,15 +79,15 @@
             }
         },
         "47182": {
-            "id": 3387096,
-            "url": "https://www.tvmaze.com/episodes/3387096/smiling-friends-3x03-mole-man",
-            "name": "Mole Man",
+            "id": 3387097,
+            "url": "https://www.tvmaze.com/episodes/3387097/smiling-friends-3x04-curse-of-the-green-halloween-witch",
+            "name": "Curse of the Green Halloween Witch",
             "season": 3,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2025-10-19",
+            "airdate": "2025-10-26",
             "airtime": "23:30",
-            "airstamp": "2025-10-20T03:30:00+00:00",
+            "airstamp": "2025-10-27T03:30:00+00:00",
             "runtime": 15,
             "rating": {
                 "average": null
@@ -96,7 +96,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3387096"
+                    "href": "https://api.tvmaze.com/episodes/3387097"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/47182",
