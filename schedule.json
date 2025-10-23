@@ -1,31 +1,5 @@
 {
     "schedule": {
-        "62998": {
-            "id": 3262786,
-            "url": "https://www.tvmaze.com/episodes/3262786/gen-v-2x08-trojan",
-            "name": "Trojan",
-            "season": 2,
-            "number": 8,
-            "type": "regular",
-            "airdate": "2025-10-22",
-            "airtime": "",
-            "airstamp": "2025-10-22T12:00:00+00:00",
-            "runtime": null,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": "<p>Hello {FirstName} {LastName}. You've been selected for the 10:30 AM session.** Please be on time. Once a session begins, students may not leave for any reason. Check in with Vance outside of the Advanced Seminar Room when you arrive. Good luck! ** By accepting this invitation, you assume inherent risks involved with this activity including but not limited to physical harm, injury, or death.</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3262786"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/62998",
-                    "name": "Gen V"
-                }
-            }
-        },
         "2993": {
             "id": 2427134,
             "url": "https://www.tvmaze.com/episodes/2427134/stranger-things-5x01-chapter-one-the-crawl",
