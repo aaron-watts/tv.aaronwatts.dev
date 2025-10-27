@@ -27,15 +27,15 @@
             }
         },
         "4201": {
-            "id": 3395345,
-            "url": "https://www.tvmaze.com/episodes/3395345/one-punch-man-3x03-organism-limits",
-            "name": "Organism Limits",
+            "id": 3395346,
+            "url": "https://www.tvmaze.com/episodes/3395346/one-punch-man-3x04-counterattack-signal",
+            "name": "Counterattack Signal",
             "season": 3,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2025-10-26",
+            "airdate": "2025-11-02",
             "airtime": "23:45",
-            "airstamp": "2025-10-26T14:45:00+00:00",
+            "airstamp": "2025-11-02T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3395345"
+                    "href": "https://api.tvmaze.com/episodes/3395346"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
@@ -79,24 +79,24 @@
             }
         },
         "107": {
-            "id": 3390062,
-            "url": "https://www.tvmaze.com/episodes/3390062/bobs-burgers-16x04-the-skids-in-the-hall",
-            "name": "The Skids in the Hall",
+            "id": 3394761,
+            "url": "https://www.tvmaze.com/episodes/3394761/bobs-burgers-16x05-the-secret-guardin",
+            "name": "The Secret Guardin'",
             "season": 16,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2025-10-26",
+            "airdate": "2025-11-02",
             "airtime": "21:30",
-            "airstamp": "2025-10-27T01:30:00+00:00",
+            "airstamp": "2025-11-03T02:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Louise and Gene try to help Tina clear her name after she is fired as a Hall Monitor.</p>",
+            "summary": "<p>Tina, Gene, and Louise have a secret to keep from Linda, but their plan is jeopardized when Louise gets loopy from dental surgery.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3390062"
+                    "href": "https://api.tvmaze.com/episodes/3394761"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
