@@ -27,15 +27,15 @@
             }
         },
         "4201": {
-            "id": 3395346,
-            "url": "https://www.tvmaze.com/episodes/3395346/one-punch-man-3x04-counterattack-signal",
-            "name": "Counterattack Signal",
+            "id": 3395347,
+            "url": "https://www.tvmaze.com/episodes/3395347/one-punch-man-3x05-i-cant",
+            "name": "I Can't",
             "season": 3,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2025-11-02",
+            "airdate": "2025-11-09",
             "airtime": "23:45",
-            "airstamp": "2025-11-02T14:45:00+00:00",
+            "airstamp": "2025-11-09T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3395346"
+                    "href": "https://api.tvmaze.com/episodes/3395347"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
