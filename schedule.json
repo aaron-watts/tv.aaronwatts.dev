@@ -28,8 +28,8 @@
         },
         "4201": {
             "id": 3395347,
-            "url": "https://www.tvmaze.com/episodes/3395347/one-punch-man-3x05-i-cant",
-            "name": "I Can't",
+            "url": "https://www.tvmaze.com/episodes/3395347/one-punch-man-3x05-monster-king",
+            "name": "Monster King",
             "season": 3,
             "number": 5,
             "type": "regular",
@@ -53,15 +53,15 @@
             }
         },
         "47182": {
-            "id": 3387097,
-            "url": "https://www.tvmaze.com/episodes/3387097/smiling-friends-3x04-curse-of-the-green-halloween-witch",
-            "name": "Curse of the Green Halloween Witch",
+            "id": 3387098,
+            "url": "https://www.tvmaze.com/episodes/3387098/smiling-friends-3x05-pim-and-charlie-save-mother-nature",
+            "name": "Pim and Charlie Save Mother Nature",
             "season": 3,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2025-11-02",
+            "airdate": "2025-11-09",
             "airtime": "23:30",
-            "airstamp": "2025-11-03T04:30:00+00:00",
+            "airstamp": "2025-11-10T04:30:00+00:00",
             "runtime": 15,
             "rating": {
                 "average": null
@@ -70,7 +70,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3387097"
+                    "href": "https://api.tvmaze.com/episodes/3387098"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/47182",
@@ -79,24 +79,24 @@
             }
         },
         "107": {
-            "id": 3394761,
-            "url": "https://www.tvmaze.com/episodes/3394761/bobs-burgers-16x05-the-secret-guardin",
-            "name": "The Secret Guardin'",
+            "id": 3400732,
+            "url": "https://www.tvmaze.com/episodes/3400732/bobs-burgers-16x06-get-her-to-the-zeke",
+            "name": "Get Her to the Zeke",
             "season": 16,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2025-11-02",
+            "airdate": "2025-11-09",
             "airtime": "21:30",
-            "airstamp": "2025-11-03T02:30:00+00:00",
+            "airstamp": "2025-11-10T02:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Tina, Gene, and Louise have a secret to keep from Linda, but their plan is jeopardized when Louise gets loopy from dental surgery.</p>",
+            "summary": "<p>Tina tries to set up Zeke on a date while the rest of the Belchers contend with a Super Rat.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3394761"
+                    "href": "https://api.tvmaze.com/episodes/3400732"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
