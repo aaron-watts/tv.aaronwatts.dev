@@ -27,15 +27,15 @@
             }
         },
         "4201": {
-            "id": 3395347,
-            "url": "https://www.tvmaze.com/episodes/3395347/one-punch-man-3x05-monster-king",
-            "name": "Monster King",
+            "id": 3402936,
+            "url": "https://www.tvmaze.com/episodes/3402936/one-punch-man-3x06-is-this-what-depression-feels-like",
+            "name": "Is This What Depression Feels Like?",
             "season": 3,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2025-11-09",
+            "airdate": "2025-11-16",
             "airtime": "23:45",
-            "airstamp": "2025-11-09T14:45:00+00:00",
+            "airstamp": "2025-11-16T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3395347"
+                    "href": "https://api.tvmaze.com/episodes/3402936"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
