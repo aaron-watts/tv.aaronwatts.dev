@@ -10,7 +10,7 @@
             "airdate": "2025-11-26",
             "airtime": "",
             "airstamp": "2025-11-26T12:00:00+00:00",
-            "runtime": 96,
+            "runtime": 68,
             "rating": {
                 "average": 10
             },
@@ -53,15 +53,15 @@
             }
         },
         "47182": {
-            "id": 3387098,
-            "url": "https://www.tvmaze.com/episodes/3387098/smiling-friends-3x05-pim-and-charlie-save-mother-nature",
-            "name": "Pim and Charlie Save Mother Nature",
+            "id": 3387099,
+            "url": "https://www.tvmaze.com/episodes/3387099/smiling-friends-3x06-squim-returns",
+            "name": "Squim Returns",
             "season": 3,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2025-11-09",
+            "airdate": "2025-11-16",
             "airtime": "23:30",
-            "airstamp": "2025-11-10T04:30:00+00:00",
+            "airstamp": "2025-11-17T04:30:00+00:00",
             "runtime": 15,
             "rating": {
                 "average": null
@@ -70,7 +70,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3387098"
+                    "href": "https://api.tvmaze.com/episodes/3387099"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/47182",
@@ -79,24 +79,24 @@
             }
         },
         "107": {
-            "id": 3400732,
-            "url": "https://www.tvmaze.com/episodes/3400732/bobs-burgers-16x06-get-her-to-the-zeke",
-            "name": "Get Her to the Zeke",
+            "id": 3427595,
+            "url": "https://www.tvmaze.com/episodes/3427595/bobs-burgers-16x07-tube-for-tina",
+            "name": "Tube for Tina",
             "season": 16,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2025-11-09",
+            "airdate": "2025-11-23",
             "airtime": "21:30",
-            "airstamp": "2025-11-10T02:30:00+00:00",
+            "airstamp": "2025-11-24T02:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Tina tries to set up Zeke on a date while the rest of the Belchers contend with a Super Rat.</p>",
+            "summary": "<p>Linda has a strong reaction when Tina buys a tiny tube top. Meanwhile, Bob, Teddy, Louise and Gene deal with the consequences of a rare bird flying into the window of the restaurant.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3400732"
+                    "href": "https://api.tvmaze.com/episodes/3427595"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
