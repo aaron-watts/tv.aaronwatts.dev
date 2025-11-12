@@ -22,4 +22,6 @@ shows = [
     '112', # South Park
     '52336', # Alien: Earth
     '50603', # Peacemaker
+    '42184', # Primal
+    '51576', # Unicorn: Warriors Eternal
 ]
