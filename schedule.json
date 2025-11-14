@@ -105,24 +105,24 @@
             }
         },
         "112": {
-            "id": 3314518,
-            "url": "https://www.tvmaze.com/episodes/3314518/south-park-28x03-unholy-birth",
-            "name": "Unholy Birth",
+            "id": 3314519,
+            "url": "https://www.tvmaze.com/episodes/3314519/south-park-28x04-episode-4",
+            "name": "Episode 4",
             "season": 28,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2025-11-12",
+            "airdate": "2025-11-26",
             "airtime": "22:00",
-            "airstamp": "2025-11-13T03:00:00+00:00",
+            "airstamp": "2025-11-27T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Peter Thiel takes Cartman to Washington as the birth of the Antichrist nears, meanwhile the girls host a Halloween party.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3314518"
+                    "href": "https://api.tvmaze.com/episodes/3314519"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/112",
