@@ -27,15 +27,15 @@
             }
         },
         "4201": {
-            "id": 3402936,
-            "url": "https://www.tvmaze.com/episodes/3402936/one-punch-man-3x06-motley-heroes",
-            "name": "Motley Heroes",
+            "id": 3402937,
+            "url": "https://www.tvmaze.com/episodes/3402937/one-punch-man-3x07-hope-is-a-concept",
+            "name": "Hope Is A Concept",
             "season": 3,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2025-11-16",
+            "airdate": "2025-11-23",
             "airtime": "23:45",
-            "airstamp": "2025-11-16T14:45:00+00:00",
+            "airstamp": "2025-11-23T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3402936"
+                    "href": "https://api.tvmaze.com/episodes/3402937"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
