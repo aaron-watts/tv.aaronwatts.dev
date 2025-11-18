@@ -28,8 +28,8 @@
         },
         "4201": {
             "id": 3402937,
-            "url": "https://www.tvmaze.com/episodes/3402937/one-punch-man-3x07-hope-is-a-concept",
-            "name": "Hope Is A Concept",
+            "url": "https://www.tvmaze.com/episodes/3402937/one-punch-man-3x07-counterstrike",
+            "name": "Counterstrike",
             "season": 3,
             "number": 7,
             "type": "regular",
@@ -53,15 +53,15 @@
             }
         },
         "47182": {
-            "id": 3387099,
-            "url": "https://www.tvmaze.com/episodes/3387099/smiling-friends-3x06-squim-returns",
-            "name": "Squim Returns",
+            "id": 3387100,
+            "url": "https://www.tvmaze.com/episodes/3387100/smiling-friends-3x07-shmaloogles",
+            "name": "Shmaloogles",
             "season": 3,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2025-11-16",
+            "airdate": "2025-11-23",
             "airtime": "23:30",
-            "airstamp": "2025-11-17T04:30:00+00:00",
+            "airstamp": "2025-11-24T04:30:00+00:00",
             "runtime": 15,
             "rating": {
                 "average": null
@@ -70,7 +70,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3387099"
+                    "href": "https://api.tvmaze.com/episodes/3387100"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/47182",
