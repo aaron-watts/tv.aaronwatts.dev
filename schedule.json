@@ -129,6 +129,32 @@
                     "name": "South Park"
                 }
             }
+        },
+        "42184": {
+            "id": 3447124,
+            "url": "https://www.tvmaze.com/episodes/3447124/primal-3x01-tba",
+            "name": "TBA",
+            "season": 3,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2026-01-11",
+            "airtime": "23:30",
+            "airstamp": "2026-01-12T04:30:00+00:00",
+            "runtime": 30,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3447124"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/42184",
+                    "name": "Primal"
+                }
+            }
         }
     }
 }
