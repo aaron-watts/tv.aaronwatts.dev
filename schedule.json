@@ -27,15 +27,15 @@
             }
         },
         "4201": {
-            "id": 3402937,
-            "url": "https://www.tvmaze.com/episodes/3402937/one-punch-man-3x07-counterstrike",
-            "name": "Counterstrike",
+            "id": 3402938,
+            "url": "https://www.tvmaze.com/episodes/3402938/one-punch-man-3x08-ninja-tale",
+            "name": "Ninja Tale",
             "season": 3,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2025-11-23",
+            "airdate": "2025-11-30",
             "airtime": "23:45",
-            "airstamp": "2025-11-23T14:45:00+00:00",
+            "airstamp": "2025-11-30T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3402937"
+                    "href": "https://api.tvmaze.com/episodes/3402938"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
