@@ -53,15 +53,15 @@
             }
         },
         "47182": {
-            "id": 3387100,
-            "url": "https://www.tvmaze.com/episodes/3387100/smiling-friends-3x07-shmaloogles",
-            "name": "Shmaloogles",
+            "id": 3387101,
+            "url": "https://www.tvmaze.com/episodes/3387101/smiling-friends-3x08-the-glep-ep",
+            "name": "The Glep Ep",
             "season": 3,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2025-11-23",
+            "airdate": "2025-11-30",
             "airtime": "23:30",
-            "airstamp": "2025-11-24T04:30:00+00:00",
+            "airstamp": "2025-12-01T04:30:00+00:00",
             "runtime": 15,
             "rating": {
                 "average": null
@@ -70,7 +70,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3387100"
+                    "href": "https://api.tvmaze.com/episodes/3387101"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/47182",
@@ -79,24 +79,24 @@
             }
         },
         "107": {
-            "id": 3427595,
-            "url": "https://www.tvmaze.com/episodes/3427595/bobs-burgers-16x07-tube-for-tina",
-            "name": "Tube for Tina",
+            "id": 3441547,
+            "url": "https://www.tvmaze.com/episodes/3441547/bobs-burgers-16x08-les-lizardables",
+            "name": "Les Liz\u00e1rdables",
             "season": 16,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2025-11-23",
+            "airdate": "2025-12-07",
             "airtime": "21:30",
-            "airstamp": "2025-11-24T02:30:00+00:00",
+            "airstamp": "2025-12-08T02:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Linda has a strong reaction when Tina buys a tiny tube top. Meanwhile, Bob, Teddy, Louise and Gene deal with the consequences of a rare bird flying into the window of the restaurant.</p>",
+            "summary": "<p>Gene and Courtney become embroiled in a complex custody battle over an injured lizard.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3427595"
+                    "href": "https://api.tvmaze.com/episodes/3441547"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
