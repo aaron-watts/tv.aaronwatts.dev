@@ -105,24 +105,24 @@
             }
         },
         "112": {
-            "id": 3314519,
-            "url": "https://www.tvmaze.com/episodes/3314519/south-park-28x04-turkey-trot",
-            "name": "Turkey Trot",
+            "id": 3314520,
+            "url": "https://www.tvmaze.com/episodes/3314520/south-park-28x05-episode-5",
+            "name": "Episode 5",
             "season": 28,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2025-11-26",
+            "airdate": "2025-12-10",
             "airtime": "22:00",
-            "airstamp": "2025-11-27T03:00:00+00:00",
+            "airstamp": "2025-12-11T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>The town's annual Turkey Trot turns chaotic when Cartman uses questionable cutting-edge science to win the race.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3314519"
+                    "href": "https://api.tvmaze.com/episodes/3314520"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/112",
