@@ -27,15 +27,15 @@
             }
         },
         "4201": {
-            "id": 3402938,
-            "url": "https://www.tvmaze.com/episodes/3402938/one-punch-man-3x08-ninja-tale",
-            "name": "Ninja Tale",
+            "id": 3402939,
+            "url": "https://www.tvmaze.com/episodes/3402939/one-punch-man-3x09-mad-house-flashbacks",
+            "name": "Mad House Flashbacks",
             "season": 3,
-            "number": 8,
+            "number": 9,
             "type": "regular",
-            "airdate": "2025-11-30",
+            "airdate": "2025-12-07",
             "airtime": "23:45",
-            "airstamp": "2025-11-30T14:45:00+00:00",
+            "airstamp": "2025-12-07T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3402938"
+                    "href": "https://api.tvmaze.com/episodes/3402939"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
