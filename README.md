@@ -63,6 +63,9 @@ function main() {
     if (airstamp.getTime() > endDate.getTime()) endDate = airstamp;
   };
 
+  // account for time differences and daylight savings
+  endDate.setDate(endDate.getDate() + 1);
+
   const events = calendar.getEvents(startDate, endDate);
   
   for (let event of events) {
