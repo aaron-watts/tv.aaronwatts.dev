@@ -129,6 +129,32 @@
                     "name": "Primal"
                 }
             }
+        },
+        "56904": {
+            "id": 3400937,
+            "url": "https://www.tvmaze.com/episodes/3400937/adventure-time-fionna-and-cake-2x08-episode-8",
+            "name": "Episode 8",
+            "season": 2,
+            "number": 8,
+            "type": "regular",
+            "airdate": "2025-12-11",
+            "airtime": "",
+            "airstamp": "2025-12-11T12:00:00+00:00",
+            "runtime": null,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3400937"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/56904",
+                    "name": "Adventure Time: Fionna and Cake"
+                }
+            }
         }
     }
 }
