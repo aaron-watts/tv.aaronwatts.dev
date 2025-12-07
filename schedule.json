@@ -1,5 +1,31 @@
 {
     "schedule": {
+        "15299": {
+            "id": 3067170,
+            "url": "https://www.tvmaze.com/episodes/3067170/the-boys-5x01-fifteen-inches-of-sheer-dynamite",
+            "name": "Fifteen Inches of Sheer Dynamite",
+            "season": 5,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2026-04-08",
+            "airtime": "",
+            "airstamp": "2026-04-08T12:00:00+00:00",
+            "runtime": null,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3067170"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/15299",
+                    "name": "The Boys"
+                }
+            }
+        },
         "2993": {
             "id": 3046155,
             "url": "https://www.tvmaze.com/episodes/3046155/stranger-things-5x05-chapter-five-shock-jock",
