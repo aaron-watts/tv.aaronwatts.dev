@@ -54,8 +54,8 @@
         },
         "4201": {
             "id": 3402940,
-            "url": "https://www.tvmaze.com/episodes/3402940/one-punch-man-3x10-sudden-hair-growth",
-            "name": "Sudden Hair Growth",
+            "url": "https://www.tvmaze.com/episodes/3402940/one-punch-man-3x10-immortal-bloodbath",
+            "name": "Immortal Bloodbath",
             "season": 3,
             "number": 10,
             "type": "regular",
@@ -79,24 +79,24 @@
             }
         },
         "107": {
-            "id": 3441547,
-            "url": "https://www.tvmaze.com/episodes/3441547/bobs-burgers-16x08-les-lizardables",
-            "name": "Les Liz\u00e1rdables",
+            "id": 3448489,
+            "url": "https://www.tvmaze.com/episodes/3448489/bobs-burgers-16x09-its-a-stunterful-life",
+            "name": "It's a Stunterful Life",
             "season": 16,
-            "number": 8,
+            "number": 9,
             "type": "regular",
-            "airdate": "2025-12-07",
+            "airdate": "2025-12-14",
             "airtime": "21:30",
-            "airstamp": "2025-12-08T02:30:00+00:00",
+            "airstamp": "2025-12-15T02:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Gene and Courtney become embroiled in a complex custody battle over an injured lizard.</p>",
+            "summary": "<p>The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3441547"
+                    "href": "https://api.tvmaze.com/episodes/3448489"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
