@@ -106,8 +106,8 @@
         },
         "112": {
             "id": 3314520,
-            "url": "https://www.tvmaze.com/episodes/3314520/south-park-28x05-episode-5",
-            "name": "Episode 5",
+            "url": "https://www.tvmaze.com/episodes/3314520/south-park-28x05-the-crap-out",
+            "name": "The Crap Out",
             "season": 28,
             "number": 5,
             "type": "regular",
@@ -119,7 +119,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3314520"
