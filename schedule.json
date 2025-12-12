@@ -104,32 +104,6 @@
                 }
             }
         },
-        "112": {
-            "id": 3314520,
-            "url": "https://www.tvmaze.com/episodes/3314520/south-park-28x05-the-crap-out",
-            "name": "The Crap Out",
-            "season": 28,
-            "number": 5,
-            "type": "regular",
-            "airdate": "2025-12-10",
-            "airtime": "22:00",
-            "airstamp": "2025-12-11T03:00:00+00:00",
-            "runtime": 30,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": "<p>Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time.</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3314520"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/112",
-                    "name": "South Park"
-                }
-            }
-        },
         "42184": {
             "id": 3447124,
             "url": "https://www.tvmaze.com/episodes/3447124/primal-3x01-tba",
@@ -157,15 +131,15 @@
             }
         },
         "56904": {
-            "id": 3400937,
-            "url": "https://www.tvmaze.com/episodes/3400937/adventure-time-fionna-and-cake-2x08-episode-8",
-            "name": "Episode 8",
+            "id": 3400938,
+            "url": "https://www.tvmaze.com/episodes/3400938/adventure-time-fionna-and-cake-2x09-episode-9",
+            "name": "Episode 9",
             "season": 2,
-            "number": 8,
+            "number": 9,
             "type": "regular",
-            "airdate": "2025-12-11",
+            "airdate": "2025-12-18",
             "airtime": "",
-            "airstamp": "2025-12-11T12:00:00+00:00",
+            "airstamp": "2025-12-18T12:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
@@ -174,7 +148,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3400937"
+                    "href": "https://api.tvmaze.com/episodes/3400938"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/56904",
