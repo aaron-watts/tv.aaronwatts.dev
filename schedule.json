@@ -53,15 +53,15 @@
             }
         },
         "4201": {
-            "id": 3402940,
-            "url": "https://www.tvmaze.com/episodes/3402940/one-punch-man-3x10-immortal-bloodbath",
-            "name": "Immortal Bloodbath",
+            "id": 3402941,
+            "url": "https://www.tvmaze.com/episodes/3402941/one-punch-man-3x11-top-dragons",
+            "name": "Top Dragons",
             "season": 3,
-            "number": 10,
+            "number": 11,
             "type": "regular",
-            "airdate": "2025-12-14",
+            "airdate": "2025-12-21",
             "airtime": "23:45",
-            "airstamp": "2025-12-14T14:45:00+00:00",
+            "airstamp": "2025-12-21T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -70,7 +70,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3402940"
+                    "href": "https://api.tvmaze.com/episodes/3402941"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
