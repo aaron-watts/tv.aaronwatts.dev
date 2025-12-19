@@ -131,15 +131,15 @@
             }
         },
         "56904": {
-            "id": 3400938,
-            "url": "https://www.tvmaze.com/episodes/3400938/adventure-time-fionna-and-cake-2x09-episode-9",
-            "name": "Episode 9",
+            "id": 3400939,
+            "url": "https://www.tvmaze.com/episodes/3400939/adventure-time-fionna-and-cake-2x10-episode-10",
+            "name": "Episode 10",
             "season": 2,
-            "number": 9,
+            "number": 10,
             "type": "regular",
-            "airdate": "2025-12-18",
+            "airdate": "2025-12-25",
             "airtime": "",
-            "airstamp": "2025-12-18T12:00:00+00:00",
+            "airstamp": "2025-12-25T12:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
@@ -148,7 +148,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3400938"
+                    "href": "https://api.tvmaze.com/episodes/3400939"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/56904",
