@@ -53,15 +53,15 @@
             }
         },
         "4201": {
-            "id": 3402941,
-            "url": "https://www.tvmaze.com/episodes/3402941/one-punch-man-3x11-top-dragons",
-            "name": "Top Dragons",
+            "id": 3402943,
+            "url": "https://www.tvmaze.com/episodes/3402943/one-punch-man-3x12-punching-goodbye",
+            "name": "Punching Goodbye",
             "season": 3,
-            "number": 11,
+            "number": 12,
             "type": "regular",
-            "airdate": "2025-12-21",
+            "airdate": "2025-12-28",
             "airtime": "23:45",
-            "airstamp": "2025-12-21T14:45:00+00:00",
+            "airstamp": "2025-12-28T14:45:00+00:00",
             "runtime": 25,
             "rating": {
                 "average": null
@@ -70,7 +70,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3402941"
+                    "href": "https://api.tvmaze.com/episodes/3402943"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/4201",
