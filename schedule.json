@@ -27,24 +27,24 @@
             }
         },
         "2993": {
-            "id": 3046155,
-            "url": "https://www.tvmaze.com/episodes/3046155/stranger-things-5x05-chapter-five-shock-jock",
-            "name": "Chapter Five: Shock Jock",
+            "id": 3046158,
+            "url": "https://www.tvmaze.com/episodes/3046158/stranger-things-5x08-chapter-eight-the-rightside-up",
+            "name": "Chapter Eight: The Rightside Up",
             "season": 5,
-            "number": 5,
+            "number": 8,
             "type": "regular",
-            "airdate": "2025-12-25",
+            "airdate": "2025-12-31",
             "airtime": "",
-            "airstamp": "2025-12-25T12:00:00+00:00",
-            "runtime": 68,
+            "airstamp": "2025-12-31T12:00:00+00:00",
+            "runtime": 128,
             "rating": {
-                "average": 9.5
+                "average": null
             },
             "image": null,
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3046155"
+                    "href": "https://api.tvmaze.com/episodes/3046158"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/2993",
@@ -127,32 +127,6 @@
                 "show": {
                     "href": "https://api.tvmaze.com/shows/42184",
                     "name": "Primal"
-                }
-            }
-        },
-        "56904": {
-            "id": 3400939,
-            "url": "https://www.tvmaze.com/episodes/3400939/adventure-time-fionna-and-cake-2x10-the-bear-and-the-rose",
-            "name": "The Bear and the Rose",
-            "season": 2,
-            "number": 10,
-            "type": "regular",
-            "airdate": "2025-12-25",
-            "airtime": "",
-            "airstamp": "2025-12-25T12:00:00+00:00",
-            "runtime": null,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": null,
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3400939"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/56904",
-                    "name": "Adventure Time: Fionna and Cake"
                 }
             }
         }
