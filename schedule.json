@@ -52,58 +52,6 @@
                 }
             }
         },
-        "4201": {
-            "id": 3402943,
-            "url": "https://www.tvmaze.com/episodes/3402943/one-punch-man-3x12-ultimate-lifeform",
-            "name": "Ultimate Lifeform",
-            "season": 3,
-            "number": 12,
-            "type": "regular",
-            "airdate": "2025-12-28",
-            "airtime": "23:45",
-            "airstamp": "2025-12-28T14:45:00+00:00",
-            "runtime": 25,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": null,
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3402943"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/4201",
-                    "name": "One-Punch Man"
-                }
-            }
-        },
-        "107": {
-            "id": 3468864,
-            "url": "https://www.tvmaze.com/episodes/3468864/bobs-burgers-16x10-heist-things-are-heist",
-            "name": "Heist Things Are Heist",
-            "season": 16,
-            "number": 10,
-            "type": "regular",
-            "airdate": "2025-12-28",
-            "airtime": "21:30",
-            "airstamp": "2025-12-29T02:30:00+00:00",
-            "runtime": 30,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": "<p>After winning a prestigious award, Bob faces a setback at the ceremony, and the kids team up with possible former jewel thief Vincent to put things right.</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3468864"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/107",
-                    "name": "Bob's Burgers"
-                }
-            }
-        },
         "42184": {
             "id": 3447124,
             "url": "https://www.tvmaze.com/episodes/3447124/primal-3x01-tba",
