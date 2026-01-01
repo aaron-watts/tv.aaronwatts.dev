@@ -26,32 +26,6 @@
                 }
             }
         },
-        "2993": {
-            "id": 3046158,
-            "url": "https://www.tvmaze.com/episodes/3046158/stranger-things-5x08-chapter-eight-the-rightside-up",
-            "name": "Chapter Eight: The Rightside Up",
-            "season": 5,
-            "number": 8,
-            "type": "regular",
-            "airdate": "2025-12-31",
-            "airtime": "",
-            "airstamp": "2025-12-31T12:00:00+00:00",
-            "runtime": 128,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": "<p><i>Stranger Things</i> Season 5, Episode 8 (\"The Rightside Up\"), the series finale, sees the Hawkins crew facing the fully collapsed reality where the Upside Down is merging with their world, forcing a desperate, all-in final battle against a weakened but powerful Vecna, with Will's unique connection to the hive mind and Eleven's powers crucial in a high-stakes attempt to end the nightmare, culminating in profound personal moments, especially Will's acceptance and self-love journey as he embraces his identity, leading to a powerful, emotional, and bittersweet conclusion for the characters and the town</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3046158"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/2993",
-                    "name": "Stranger Things"
-                }
-            }
-        },
         "42184": {
             "id": 3447124,
             "url": "https://www.tvmaze.com/episodes/3447124/primal-3x01-tba",
