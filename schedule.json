@@ -28,8 +28,8 @@
         },
         "42184": {
             "id": 3447124,
-            "url": "https://www.tvmaze.com/episodes/3447124/primal-3x01-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3447124/primal-3x01-vengeance-of-death",
+            "name": "Vengeance of Death",
             "season": 3,
             "number": 1,
             "type": "regular",
@@ -41,7 +41,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>Spear's lifeless body is reanimated to enact brutal vengeance.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3447124"
