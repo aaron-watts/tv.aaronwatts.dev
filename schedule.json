@@ -27,24 +27,24 @@
             }
         },
         "42184": {
-            "id": 3447124,
-            "url": "https://www.tvmaze.com/episodes/3447124/primal-3x01-vengeance-of-death",
-            "name": "Vengeance of Death",
+            "id": 3519863,
+            "url": "https://www.tvmaze.com/episodes/3519863/primal-3x02-kingdom-of-sorrow",
+            "name": "Kingdom of Sorrow",
             "season": 3,
-            "number": 1,
+            "number": 2,
             "type": "regular",
-            "airdate": "2026-01-11",
+            "airdate": "2026-01-18",
             "airtime": "23:30",
-            "airstamp": "2026-01-12T04:30:00+00:00",
+            "airstamp": "2026-01-19T04:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Spear's lifeless body is reanimated to enact brutal vengeance.</p>",
+            "summary": "<p>A zombified Spear wanders aimlessly with no purpose until a distant sound awakens something deep inside and calls to him like a beacon from the past.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3447124"
+                    "href": "https://api.tvmaze.com/episodes/3519863"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/42184",
