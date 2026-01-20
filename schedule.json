@@ -27,24 +27,24 @@
             }
         },
         "42184": {
-            "id": 3519863,
-            "url": "https://www.tvmaze.com/episodes/3519863/primal-3x02-kingdom-of-sorrow",
-            "name": "Kingdom of Sorrow",
+            "id": 3519864,
+            "url": "https://www.tvmaze.com/episodes/3519864/primal-3x03-feast-of-flesh",
+            "name": "Feast of Flesh",
             "season": 3,
-            "number": 2,
+            "number": 3,
             "type": "regular",
-            "airdate": "2026-01-18",
+            "airdate": "2026-01-25",
             "airtime": "23:30",
-            "airstamp": "2026-01-19T04:30:00+00:00",
+            "airstamp": "2026-01-26T04:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>A zombified Spear wanders aimlessly with no purpose until a distant sound awakens something deep inside and calls to him like a beacon from the past.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3519863"
+                    "href": "https://api.tvmaze.com/episodes/3519864"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/42184",
