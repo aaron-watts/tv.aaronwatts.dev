@@ -1,5 +1,31 @@
 {
     "schedule": {
+        "37196": {
+            "id": 3531278,
+            "url": "https://www.tvmaze.com/episodes/3531278/invincible-4x01-tba",
+            "name": "TBA",
+            "season": 4,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2026-03-18",
+            "airtime": "",
+            "airstamp": "2026-03-18T12:00:00+00:00",
+            "runtime": null,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3531278"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/37196",
+                    "name": "Invincible"
+                }
+            }
+        },
         "15299": {
             "id": 3067170,
             "url": "https://www.tvmaze.com/episodes/3067170/the-boys-5x01-fifteen-inches-of-sheer-dynamite",
