@@ -53,24 +53,24 @@
             }
         },
         "42184": {
-            "id": 3519864,
-            "url": "https://www.tvmaze.com/episodes/3519864/primal-3x03-feast-of-flesh",
-            "name": "Feast of Flesh",
+            "id": 3519872,
+            "url": "https://www.tvmaze.com/episodes/3519872/primal-3x04-prey-for-the-wicked",
+            "name": "Prey for The Wicked",
             "season": 3,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2026-01-25",
+            "airdate": "2026-02-01",
             "airtime": "23:30",
-            "airstamp": "2026-01-26T04:30:00+00:00",
+            "airstamp": "2026-02-02T04:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Spear is drawn to follow a very familiar creature, which leads him to make a horrific discovery.\u00a0</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3519864"
+                    "href": "https://api.tvmaze.com/episodes/3519872"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/42184",
