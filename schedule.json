@@ -53,24 +53,24 @@
             }
         },
         "42184": {
-            "id": 3519872,
-            "url": "https://www.tvmaze.com/episodes/3519872/primal-3x04-prey-for-the-wicked",
-            "name": "Prey for The Wicked",
+            "id": 3519873,
+            "url": "https://www.tvmaze.com/episodes/3519873/primal-3x05-the-dead-cast-no-shadow",
+            "name": "The Dead Cast No Shadow",
             "season": 3,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2026-02-01",
+            "airdate": "2026-02-08",
             "airtime": "23:30",
-            "airstamp": "2026-02-02T04:30:00+00:00",
+            "airstamp": "2026-02-09T04:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>A pack of hideous creatures attack a village, forcing the villagers to flee.\u00a0</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3519872"
+                    "href": "https://api.tvmaze.com/episodes/3519873"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/42184",
