@@ -53,24 +53,24 @@
             }
         },
         "42184": {
-            "id": 3519873,
-            "url": "https://www.tvmaze.com/episodes/3519873/primal-3x05-the-dead-cast-no-shadow",
-            "name": "The Dead Cast No Shadow",
+            "id": 3519874,
+            "url": "https://www.tvmaze.com/episodes/3519874/primal-3x06-cavern-of-horrors",
+            "name": "Cavern of Horrors",
             "season": 3,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2026-02-08",
+            "airdate": "2026-02-15",
             "airtime": "23:30",
-            "airstamp": "2026-02-09T04:30:00+00:00",
+            "airstamp": "2026-02-16T04:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>The ramifications of Spear's return from the dead reverberate through the world he once knew.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3519873"
+                    "href": "https://api.tvmaze.com/episodes/3519874"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/42184",
