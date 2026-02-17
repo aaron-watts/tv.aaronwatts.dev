@@ -53,24 +53,24 @@
             }
         },
         "42184": {
-            "id": 3519874,
-            "url": "https://www.tvmaze.com/episodes/3519874/primal-3x06-cavern-of-horrors",
-            "name": "Cavern of Horrors",
+            "id": 3519875,
+            "url": "https://www.tvmaze.com/episodes/3519875/primal-3x07-heart-of-the-undead",
+            "name": "Heart of the Undead",
             "season": 3,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2026-02-15",
+            "airdate": "2026-02-22",
             "airtime": "23:30",
-            "airstamp": "2026-02-16T04:30:00+00:00",
+            "airstamp": "2026-02-23T04:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>A rescue party makes a terrifying discovery while attempting to save villagers from a pack of hideous hyena-like creatures.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3519874"
+                    "href": "https://api.tvmaze.com/episodes/3519875"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/42184",
