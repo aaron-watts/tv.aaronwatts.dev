@@ -53,24 +53,24 @@
             }
         },
         "42184": {
-            "id": 3519875,
-            "url": "https://www.tvmaze.com/episodes/3519875/primal-3x07-heart-of-the-undead",
-            "name": "Heart of the Undead",
+            "id": 3550171,
+            "url": "https://www.tvmaze.com/episodes/3550171/primal-3x08-the-river-of-life",
+            "name": "The River of Life",
             "season": 3,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2026-02-22",
+            "airdate": "2026-03-01",
             "airtime": "23:30",
-            "airstamp": "2026-02-23T04:30:00+00:00",
+            "airstamp": "2026-03-02T04:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Spear's world shatters when he's shunned by everyone and finally realizes what he has become.\u00a0</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3519875"
+                    "href": "https://api.tvmaze.com/episodes/3550171"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/42184",
