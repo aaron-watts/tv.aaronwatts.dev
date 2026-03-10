@@ -53,24 +53,24 @@
             }
         },
         "42184": {
-            "id": 3550172,
-            "url": "https://www.tvmaze.com/episodes/3550172/primal-3x09-the-hollow-crown",
-            "name": "The Hollow Crown",
+            "id": 3550173,
+            "url": "https://www.tvmaze.com/episodes/3550173/primal-3x10-an-echo-of-eternity",
+            "name": "An Echo of Eternity",
             "season": 3,
-            "number": 9,
+            "number": 10,
             "type": "regular",
-            "airdate": "2026-03-08",
+            "airdate": "2026-03-15",
             "airtime": "23:30",
-            "airstamp": "2026-03-09T03:30:00+00:00",
+            "airstamp": "2026-03-16T03:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Spear starts to question his new life with the Black River people.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3550172"
+                    "href": "https://api.tvmaze.com/episodes/3550173"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/42184",
