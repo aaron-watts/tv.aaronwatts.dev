@@ -1,5 +1,31 @@
 {
     "schedule": {
+        "216": {
+            "id": 3570414,
+            "url": "https://www.tvmaze.com/episodes/3570414/rick-and-morty-9x01-tba",
+            "name": "TBA",
+            "season": 9,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2026-05-24",
+            "airtime": "23:00",
+            "airstamp": "2026-05-25T03:00:00+00:00",
+            "runtime": 30,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3570414"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/216",
+                    "name": "Rick and Morty"
+                }
+            }
+        },
         "37196": {
             "id": 3531278,
             "url": "https://www.tvmaze.com/episodes/3531278/invincible-4x01-you-gave-me-no-choice",
