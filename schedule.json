@@ -77,32 +77,6 @@
                     "name": "The Boys"
                 }
             }
-        },
-        "42184": {
-            "id": 3550173,
-            "url": "https://www.tvmaze.com/episodes/3550173/primal-3x10-an-echo-of-eternity",
-            "name": "An Echo of Eternity",
-            "season": 3,
-            "number": 10,
-            "type": "regular",
-            "airdate": "2026-03-15",
-            "airtime": "23:30",
-            "airstamp": "2026-03-16T03:30:00+00:00",
-            "runtime": 30,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": null,
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3550173"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/42184",
-                    "name": "Primal"
-                }
-            }
         }
     }
 }
