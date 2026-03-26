@@ -27,27 +27,27 @@
             }
         },
         "37196": {
-            "id": 3552383,
-            "url": "https://www.tvmaze.com/episodes/3552383/invincible-4x04-hurm",
-            "name": "Hurm",
+            "id": 3552384,
+            "url": "https://www.tvmaze.com/episodes/3552384/invincible-4x05-give-us-a-moment",
+            "name": "Give Us a Moment",
             "season": 4,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2026-03-25",
+            "airdate": "2026-04-01",
             "airtime": "",
-            "airstamp": "2026-03-25T12:00:00+00:00",
+            "airstamp": "2026-04-01T12:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/618/1545798.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/618/1545798.jpg"
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/618/1545799.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/618/1545799.jpg"
             },
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3552383"
+                    "href": "https://api.tvmaze.com/episodes/3552384"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/37196",
@@ -89,8 +89,8 @@
             "number": 9,
             "type": "regular",
             "airdate": "2026-04-12",
-            "airtime": "23:30",
-            "airstamp": "2026-04-13T03:30:00+00:00",
+            "airtime": "23:00",
+            "airstamp": "2026-04-13T03:00:00+00:00",
             "runtime": 15,
             "rating": {
                 "average": null
