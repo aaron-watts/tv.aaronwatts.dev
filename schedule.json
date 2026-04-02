@@ -27,27 +27,27 @@
             }
         },
         "37196": {
-            "id": 3552384,
-            "url": "https://www.tvmaze.com/episodes/3552384/invincible-4x05-give-us-a-moment",
-            "name": "Give Us a Moment",
+            "id": 3552385,
+            "url": "https://www.tvmaze.com/episodes/3552385/invincible-4x06-you-look-horrible",
+            "name": "You Look Horrible",
             "season": 4,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2026-04-01",
+            "airdate": "2026-04-08",
             "airtime": "",
-            "airstamp": "2026-04-01T12:00:00+00:00",
+            "airstamp": "2026-04-08T12:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/618/1545799.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/618/1545799.jpg"
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/618/1545800.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/618/1545800.jpg"
             },
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3552384"
+                    "href": "https://api.tvmaze.com/episodes/3552385"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/37196",
