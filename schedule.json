@@ -81,32 +81,6 @@
                 }
             }
         },
-        "47182": {
-            "id": 3575009,
-            "url": "https://www.tvmaze.com/episodes/3575009/smiling-friends-3x10-friend-bot-version-12589218731809213528796879521",
-            "name": "Friend-Bot (Version 12589218731809213528796879521)",
-            "season": 3,
-            "number": 10,
-            "type": "regular",
-            "airdate": "2026-04-12",
-            "airtime": "23:00",
-            "airstamp": "2026-04-13T03:00:00+00:00",
-            "runtime": 15,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": null,
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3575009"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/47182",
-                    "name": "Smiling Friends"
-                }
-            }
-        },
         "107": {
             "id": 3591122,
             "url": "https://www.tvmaze.com/episodes/3591122/bobs-burgers-16x11-the-keyboard-kid",
