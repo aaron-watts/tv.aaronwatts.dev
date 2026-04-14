@@ -25,4 +25,5 @@ shows = [
     '42184', # Primal
     '51576', # Unicorn: Warriors Eternal
     '56904', # Adventure Time: Fionna and Cake
+    '78631', # Rooster Fighter
 ]
