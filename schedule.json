@@ -106,6 +106,32 @@
                     "name": "Bob's Burgers"
                 }
             }
+        },
+        "78631": {
+            "id": 3592259,
+            "url": "https://www.tvmaze.com/episodes/3592259/rooster-fighter-1x06-built-like-a-brick-coop",
+            "name": "Built Like a Brick Coop",
+            "season": 1,
+            "number": 6,
+            "type": "regular",
+            "airdate": "2026-04-19",
+            "airtime": "23:59",
+            "airstamp": "2026-04-20T03:59:00+00:00",
+            "runtime": null,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": "<p>When Morio's efforts fail, the flood approaches! Will Keiji and his flock be able to save the city?</p>",
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3592259"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/78631",
+                    "name": "Rooster Fighter"
+                }
+            }
         }
     }
 }
