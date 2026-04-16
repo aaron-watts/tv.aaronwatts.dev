@@ -27,27 +27,27 @@
             }
         },
         "37196": {
-            "id": 3552386,
-            "url": "https://www.tvmaze.com/episodes/3552386/invincible-4x07-dont-do-anything-rash",
-            "name": "Don't Do Anything Rash",
+            "id": 3552387,
+            "url": "https://www.tvmaze.com/episodes/3552387/invincible-4x08-dont-leave-me-hanging-here",
+            "name": "Don't Leave Me Hanging Here",
             "season": 4,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2026-04-15",
+            "airdate": "2026-04-22",
             "airtime": "",
-            "airstamp": "2026-04-15T12:00:00+00:00",
-            "runtime": 53,
+            "airstamp": "2026-04-22T12:00:00+00:00",
+            "runtime": null,
             "rating": {
                 "average": null
             },
             "image": {
-                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/618/1545801.jpg",
-                "original": "https://static.tvmaze.com/uploads/images/original_untouched/618/1545801.jpg"
+                "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/618/1545802.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/618/1545802.jpg"
             },
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3552386"
+                    "href": "https://api.tvmaze.com/episodes/3552387"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/37196",
@@ -56,24 +56,24 @@
             }
         },
         "15299": {
-            "id": 3464780,
-            "url": "https://www.tvmaze.com/episodes/3464780/the-boys-5x03-every-one-of-you-sons-of-bitches",
-            "name": "Every One of You Sons of Bitches",
+            "id": 3464781,
+            "url": "https://www.tvmaze.com/episodes/3464781/the-boys-5x04-though-the-heavens-fall",
+            "name": "Though the Heavens Fall",
             "season": 5,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2026-04-15",
+            "airdate": "2026-04-22",
             "airtime": "",
-            "airstamp": "2026-04-15T12:00:00+00:00",
+            "airstamp": "2026-04-22T12:00:00+00:00",
             "runtime": null,
             "rating": {
-                "average": 10
+                "average": null
             },
             "image": null,
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3464780"
+                    "href": "https://api.tvmaze.com/episodes/3464781"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/15299",
