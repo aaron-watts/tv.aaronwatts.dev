@@ -108,24 +108,24 @@
             }
         },
         "78631": {
-            "id": 3592259,
-            "url": "https://www.tvmaze.com/episodes/3592259/rooster-fighter-1x06-built-like-a-brick-coop",
-            "name": "Built Like a Brick Coop",
+            "id": 3592260,
+            "url": "https://www.tvmaze.com/episodes/3592260/rooster-fighter-1x07-crowing-over-a-feather",
+            "name": "Crowing Over a Feather",
             "season": 1,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2026-04-19",
+            "airdate": "2026-04-26",
             "airtime": "23:59",
-            "airstamp": "2026-04-20T03:59:00+00:00",
+            "airstamp": "2026-04-27T03:59:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>When Morio's efforts fail, the flood approaches! Will Keiji and his flock be able to save the city?</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3592259"
+                    "href": "https://api.tvmaze.com/episodes/3592260"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/78631",
