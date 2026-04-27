@@ -53,24 +53,24 @@
             }
         },
         "107": {
-            "id": 3591122,
-            "url": "https://www.tvmaze.com/episodes/3591122/bobs-burgers-16x11-the-keyboard-kid",
-            "name": "The Keyboard Kid",
+            "id": 3602397,
+            "url": "https://www.tvmaze.com/episodes/3602397/bobs-burgers-16x12-children-of-the-carn",
+            "name": "Children of the Carn",
             "season": 16,
-            "number": 11,
+            "number": 12,
             "type": "regular",
-            "airdate": "2026-04-26",
+            "airdate": "2026-05-03",
             "airtime": "20:31",
-            "airstamp": "2026-04-27T00:31:00+00:00",
+            "airstamp": "2026-05-04T00:31:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Tina hopes her fast-but-weird typing style gets her an A in typing class so she can attend an upcoming field trip. Her typing teacher has other ideas.</p>",
+            "summary": "<p>The kids return to Carniapolis to help an ex-carnie restart what they think is an innocent prank-war. Teddy sees his therapist at Bob's.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3591122"
+                    "href": "https://api.tvmaze.com/episodes/3602397"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
@@ -79,24 +79,24 @@
             }
         },
         "78631": {
-            "id": 3592260,
-            "url": "https://www.tvmaze.com/episodes/3592260/rooster-fighter-1x07-crowing-over-a-feather",
-            "name": "Crowing Over a Feather",
+            "id": 3595663,
+            "url": "https://www.tvmaze.com/episodes/3595663/rooster-fighter-1x08-not-all-feathers-hold-a-song",
+            "name": "Not All Feathers Hold a Song",
             "season": 1,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2026-04-26",
-            "airtime": "23:59",
-            "airstamp": "2026-04-27T03:59:00+00:00",
+            "airdate": "2026-05-02",
+            "airtime": "00:00",
+            "airstamp": "2026-05-03T04:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Keiji puts his chicken pride on the line and accepts an invitation to a group date!</p>",
+            "summary": "<p>Keiji finds out a brainwashed Morio is on a rampage and heads out to save him.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3592260"
+                    "href": "https://api.tvmaze.com/episodes/3595663"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/78631",
