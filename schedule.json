@@ -79,24 +79,24 @@
             }
         },
         "78631": {
-            "id": 3595663,
-            "url": "https://www.tvmaze.com/episodes/3595663/rooster-fighter-1x08-not-all-feathers-hold-a-song",
-            "name": "Not All Feathers Hold a Song",
+            "id": 3598712,
+            "url": "https://www.tvmaze.com/episodes/3598712/rooster-fighter-1x09-gone-to-the-birds",
+            "name": "Gone to the Birds",
             "season": 1,
-            "number": 8,
+            "number": 9,
             "type": "regular",
-            "airdate": "2026-05-02",
+            "airdate": "2026-05-09",
             "airtime": "00:00",
-            "airstamp": "2026-05-03T04:00:00+00:00",
-            "runtime": 30,
+            "airstamp": "2026-05-10T04:00:00+00:00",
+            "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Keiji finds out a brainwashed Morio is on a rampage and heads out to save him.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3595663"
+                    "href": "https://api.tvmaze.com/episodes/3598712"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/78631",
