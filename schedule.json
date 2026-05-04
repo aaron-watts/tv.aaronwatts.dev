@@ -53,24 +53,24 @@
             }
         },
         "107": {
-            "id": 3602397,
-            "url": "https://www.tvmaze.com/episodes/3602397/bobs-burgers-16x12-children-of-the-carn",
-            "name": "Children of the Carn",
+            "id": 3603207,
+            "url": "https://www.tvmaze.com/episodes/3603207/bobs-burgers-16x13-driving-miss-ragey",
+            "name": "Driving Miss Ragey",
             "season": 16,
-            "number": 12,
+            "number": 13,
             "type": "regular",
-            "airdate": "2026-05-03",
+            "airdate": "2026-05-10",
             "airtime": "20:31",
-            "airstamp": "2026-05-04T00:31:00+00:00",
+            "airstamp": "2026-05-11T00:31:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>The kids return to Carniapolis to help an ex-carnie restart what they think is an innocent prank-war. Teddy sees his therapist at Bob's.</p>",
+            "summary": "<p>Nat the limo driver helps Linda with her road rage. Meanwhile, the kids and Bob discover both the joys and the risk involved in riding a mattress down the stairs.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3602397"
+                    "href": "https://api.tvmaze.com/episodes/3603207"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
