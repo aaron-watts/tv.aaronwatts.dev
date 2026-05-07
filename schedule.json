@@ -27,24 +27,24 @@
             }
         },
         "15299": {
-            "id": 3464783,
-            "url": "https://www.tvmaze.com/episodes/3464783/the-boys-5x06-though-the-heavens-fall",
-            "name": "Though the Heavens Fall",
+            "id": 3464784,
+            "url": "https://www.tvmaze.com/episodes/3464784/the-boys-5x07-the-frenchman-the-female-and-the-man-called-mothers-milk",
+            "name": "The Frenchman, the Female, and the Man Called Mother's Milk",
             "season": 5,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2026-05-06",
+            "airdate": "2026-05-13",
             "airtime": "",
-            "airstamp": "2026-05-06T12:00:00+00:00",
+            "airstamp": "2026-05-13T12:00:00+00:00",
             "runtime": null,
             "rating": {
-                "average": 7.5
+                "average": null
             },
             "image": null,
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3464783"
+                    "href": "https://api.tvmaze.com/episodes/3464784"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/15299",
