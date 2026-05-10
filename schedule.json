@@ -79,15 +79,15 @@
             }
         },
         "78631": {
-            "id": 3598712,
-            "url": "https://www.tvmaze.com/episodes/3598712/rooster-fighter-1x09-gone-to-the-birds",
-            "name": "Gone to the Birds",
+            "id": 3605275,
+            "url": "https://www.tvmaze.com/episodes/3605275/rooster-fighter-1x10-to-back-a-bird-into-a-corner",
+            "name": "To Back a Bird into a Corner",
             "season": 1,
-            "number": 9,
+            "number": 10,
             "type": "regular",
-            "airdate": "2026-05-09",
+            "airdate": "2026-05-16",
             "airtime": "00:00",
-            "airstamp": "2026-05-10T04:00:00+00:00",
+            "airstamp": "2026-05-17T04:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
@@ -96,7 +96,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3598712"
+                    "href": "https://api.tvmaze.com/episodes/3605275"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/78631",
