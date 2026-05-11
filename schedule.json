@@ -53,24 +53,24 @@
             }
         },
         "107": {
-            "id": 3603207,
-            "url": "https://www.tvmaze.com/episodes/3603207/bobs-burgers-16x13-driving-miss-ragey",
-            "name": "Driving Miss Ragey",
+            "id": 3606541,
+            "url": "https://www.tvmaze.com/episodes/3606541/bobs-burgers-16x14-stuck-in-the-middle-with-hugo",
+            "name": "Stuck in the Middle with Hu(go)",
             "season": 16,
-            "number": 13,
+            "number": 14,
             "type": "regular",
-            "airdate": "2026-05-10",
-            "airtime": "20:31",
-            "airstamp": "2026-05-11T00:31:00+00:00",
+            "airdate": "2026-05-17",
+            "airtime": "20:30",
+            "airstamp": "2026-05-18T00:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Nat the limo driver helps Linda with her road rage. Meanwhile, the kids and Bob discover both the joys and the risk involved in riding a mattress down the stairs.</p>",
+            "summary": "<p>Bob is forced to spend time with one of his least favorite people, while Tina is entrusted with something very close to Jimmy Junior's heart.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3603207"
+                    "href": "https://api.tvmaze.com/episodes/3606541"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/107",
@@ -93,7 +93,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>Keiji and his friends struggle to gain the upper hand in the battle against the powerful Devil, Yuji. Keiji sets a strategy in motion that involves him sacrificing himself. Meanwhile, Hikari begins to make his move.\u00a0</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3605275"
