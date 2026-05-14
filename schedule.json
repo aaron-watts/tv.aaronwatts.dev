@@ -27,15 +27,15 @@
             }
         },
         "15299": {
-            "id": 3464784,
-            "url": "https://www.tvmaze.com/episodes/3464784/the-boys-5x07-the-frenchman-the-female-and-the-man-called-mothers-milk",
-            "name": "The Frenchman, the Female, and the Man Called Mother's Milk",
+            "id": 3464785,
+            "url": "https://www.tvmaze.com/episodes/3464785/the-boys-5x08-blood-and-bone",
+            "name": "Blood and Bone",
             "season": 5,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2026-05-13",
+            "airdate": "2026-05-20",
             "airtime": "",
-            "airstamp": "2026-05-13T12:00:00+00:00",
+            "airstamp": "2026-05-20T12:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
@@ -44,11 +44,37 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3464784"
+                    "href": "https://api.tvmaze.com/episodes/3464785"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/15299",
                     "name": "The Boys"
+                }
+            }
+        },
+        "538": {
+            "id": 3616891,
+            "url": "https://www.tvmaze.com/episodes/3616891/futurama-14x01-tba",
+            "name": "TBA",
+            "season": 14,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2026-08-03",
+            "airtime": "",
+            "airstamp": "2026-08-03T16:00:00+00:00",
+            "runtime": null,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3616891"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/538",
+                    "name": "Futurama"
                 }
             }
         },
