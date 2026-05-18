@@ -78,32 +78,6 @@
                 }
             }
         },
-        "107": {
-            "id": 3606541,
-            "url": "https://www.tvmaze.com/episodes/3606541/bobs-burgers-16x14-stuck-in-the-middle-with-hugo",
-            "name": "Stuck in the Middle with Hu(go)",
-            "season": 16,
-            "number": 14,
-            "type": "regular",
-            "airdate": "2026-05-17",
-            "airtime": "20:30",
-            "airstamp": "2026-05-18T00:30:00+00:00",
-            "runtime": 30,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": "<p>Bob is forced to spend time with one of his least favorite people, while Tina is entrusted with something very close to Jimmy Junior's heart.</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3606541"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/107",
-                    "name": "Bob's Burgers"
-                }
-            }
-        },
         "78631": {
             "id": 3610281,
             "url": "https://www.tvmaze.com/episodes/3610281/rooster-fighter-1x11-it-takes-two-wings-to-fly",
