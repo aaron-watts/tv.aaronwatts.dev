@@ -78,6 +78,32 @@
                 }
             }
         },
+        "112": {
+            "id": 3620764,
+            "url": "https://www.tvmaze.com/episodes/3620764/south-park-29x01-tba",
+            "name": "TBA",
+            "season": 29,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2026-09-16",
+            "airtime": "22:00",
+            "airstamp": "2026-09-17T02:00:00+00:00",
+            "runtime": 30,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3620764"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/112",
+                    "name": "South Park"
+                }
+            }
+        },
         "78631": {
             "id": 3595663,
             "url": "https://www.tvmaze.com/episodes/3595663/rooster-fighter-1x08-not-all-feathers-hold-a-song",
