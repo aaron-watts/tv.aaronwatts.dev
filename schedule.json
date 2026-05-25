@@ -1,24 +1,24 @@
 {
     "schedule": {
         "216": {
-            "id": 3570414,
-            "url": "https://www.tvmaze.com/episodes/3570414/rick-and-morty-9x01-theres-something-about-morty",
-            "name": "There's Something About Morty",
+            "id": 3596676,
+            "url": "https://www.tvmaze.com/episodes/3596676/rick-and-morty-9x02-ricks-days-seven-nights",
+            "name": "Ricks Days, Seven Nights",
             "season": 9,
-            "number": 1,
+            "number": 2,
             "type": "regular",
-            "airdate": "2026-05-24",
+            "airdate": "2026-05-31",
             "airtime": "23:00",
-            "airstamp": "2026-05-25T03:00:00+00:00",
+            "airstamp": "2026-06-01T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Rick's been lonely, broh. Morty's worried bout side pieces.</p>",
+            "summary": "<p>You try being Rick all the time, broh.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3570414"
+                    "href": "https://api.tvmaze.com/episodes/3596676"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/216",
@@ -79,24 +79,24 @@
             }
         },
         "78631": {
-            "id": 3595663,
-            "url": "https://www.tvmaze.com/episodes/3595663/rooster-fighter-1x08-not-all-feathers-hold-a-song",
-            "name": "Not All Feathers Hold a Song",
+            "id": 3598712,
+            "url": "https://www.tvmaze.com/episodes/3598712/rooster-fighter-1x09-gone-to-the-birds",
+            "name": "Gone to the Birds",
             "season": 1,
-            "number": 8,
+            "number": 9,
             "type": "regular",
-            "airdate": "2026-05-24",
+            "airdate": "2026-05-31",
             "airtime": "00:00",
-            "airstamp": "2026-05-24T15:00:00+00:00",
+            "airstamp": "2026-05-31T15:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Keiji finds out a brainwashed Morio is on a rampage and heads out to save him.</p>",
+            "summary": "<p>Demons and Devils lie in wait to attack Keiji and his flock.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3595663"
+                    "href": "https://api.tvmaze.com/episodes/3598712"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/78631",
