@@ -1,24 +1,24 @@
 {
     "schedule": {
         "216": {
-            "id": 3596676,
-            "url": "https://www.tvmaze.com/episodes/3596676/rick-and-morty-9x02-ricks-days-seven-nights",
-            "name": "Ricks Days, Seven Nights",
+            "id": 3596677,
+            "url": "https://www.tvmaze.com/episodes/3596677/rick-and-morty-9x03-rick-fu-hustle",
+            "name": "Rick Fu Hustle",
             "season": 9,
-            "number": 2,
+            "number": 3,
             "type": "regular",
-            "airdate": "2026-05-31",
+            "airdate": "2026-06-07",
             "airtime": "23:00",
-            "airstamp": "2026-06-01T03:00:00+00:00",
+            "airstamp": "2026-06-08T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>You try being Rick all the time, broh.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3596676"
+                    "href": "https://api.tvmaze.com/episodes/3596677"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/216",
@@ -79,24 +79,24 @@
             }
         },
         "78631": {
-            "id": 3598712,
-            "url": "https://www.tvmaze.com/episodes/3598712/rooster-fighter-1x09-gone-to-the-birds",
-            "name": "Gone to the Birds",
+            "id": 3605275,
+            "url": "https://www.tvmaze.com/episodes/3605275/rooster-fighter-1x10-to-back-a-bird-into-a-corner",
+            "name": "To Back a Bird into a Corner",
             "season": 1,
-            "number": 9,
+            "number": 10,
             "type": "regular",
-            "airdate": "2026-05-31",
+            "airdate": "2026-06-07",
             "airtime": "00:00",
-            "airstamp": "2026-05-31T15:00:00+00:00",
+            "airstamp": "2026-06-07T15:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Demons and Devils lie in wait to attack Keiji and his flock.</p>",
+            "summary": "<p>Keiji and his friends struggle to gain the upper hand in the battle against the powerful Devil, Yuji. Keiji sets a strategy in motion that involves him sacrificing himself. Meanwhile, Hikari begins to make his move.\u00a0</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3598712"
+                    "href": "https://api.tvmaze.com/episodes/3605275"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/78631",
