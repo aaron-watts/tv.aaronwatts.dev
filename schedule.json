@@ -1,24 +1,24 @@
 {
     "schedule": {
         "216": {
-            "id": 3596678,
-            "url": "https://www.tvmaze.com/episodes/3596678/rick-and-morty-9x04-a-ricker-runs-through-it",
-            "name": "A Ricker Runs Through It",
+            "id": 3596679,
+            "url": "https://www.tvmaze.com/episodes/3596679/rick-and-morty-9x05-jer-bud",
+            "name": "Jer Bud",
             "season": 9,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2026-06-14",
+            "airdate": "2026-06-21",
             "airtime": "23:00",
-            "airstamp": "2026-06-15T03:00:00+00:00",
+            "airstamp": "2026-06-22T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Remembering passwords is hard, broh. Special characters, broh.</p>",
+            "summary": "<p>Man's best friend, broh.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3596678"
+                    "href": "https://api.tvmaze.com/episodes/3596679"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/216",
@@ -79,15 +79,15 @@
             }
         },
         "78631": {
-            "id": 3610281,
-            "url": "https://www.tvmaze.com/episodes/3610281/rooster-fighter-1x11-it-takes-two-wings-to-fly",
-            "name": "It Takes Two Wings to Fly",
+            "id": 3615708,
+            "url": "https://www.tvmaze.com/episodes/3615708/rooster-fighter-1x12-what-the-birds-beasts-and-trees-share",
+            "name": "What the Birds, Beasts, and Trees Share",
             "season": 1,
-            "number": 11,
+            "number": 12,
             "type": "regular",
-            "airdate": "2026-06-14",
+            "airdate": "2026-06-21",
             "airtime": "00:00",
-            "airstamp": "2026-06-14T15:00:00+00:00",
+            "airstamp": "2026-06-21T15:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -96,7 +96,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3610281"
+                    "href": "https://api.tvmaze.com/episodes/3615708"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/78631",
