@@ -52,6 +52,32 @@
                 }
             }
         },
+        "80375": {
+            "id": 3648416,
+            "url": "https://www.tvmaze.com/episodes/3648416/bleach-thousand-year-blood-war-1x41-episode",
+            "name": "Episode",
+            "season": 1,
+            "number": 41,
+            "type": "regular",
+            "airdate": "2026-07-01",
+            "airtime": "23:00",
+            "airstamp": "2026-07-01T14:00:00+00:00",
+            "runtime": 30,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3648416"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/80375",
+                    "name": "Bleach: Thousand-Year Blood War"
+                }
+            }
+        },
         "112": {
             "id": 3620764,
             "url": "https://www.tvmaze.com/episodes/3620764/south-park-29x01-tba",
