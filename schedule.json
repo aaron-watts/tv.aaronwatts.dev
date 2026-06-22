@@ -1,24 +1,24 @@
 {
     "schedule": {
         "216": {
-            "id": 3596679,
-            "url": "https://www.tvmaze.com/episodes/3596679/rick-and-morty-9x05-jer-bud",
-            "name": "Jer Bud",
+            "id": 3596680,
+            "url": "https://www.tvmaze.com/episodes/3596680/rick-and-morty-9x06-erickerhead",
+            "name": "Erickerhead",
             "season": 9,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2026-06-21",
+            "airdate": "2026-06-28",
             "airtime": "23:00",
-            "airstamp": "2026-06-22T03:00:00+00:00",
+            "airstamp": "2026-06-29T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Man's best friend, broh.</p>",
+            "summary": "<p>Rick's stomach is mad, broh. But it's all-you-can-eat-and-drink here, broh!</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3596679"
+                    "href": "https://api.tvmaze.com/episodes/3596680"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/216",
@@ -101,32 +101,6 @@
                 "show": {
                     "href": "https://api.tvmaze.com/shows/112",
                     "name": "South Park"
-                }
-            }
-        },
-        "78631": {
-            "id": 3615708,
-            "url": "https://www.tvmaze.com/episodes/3615708/rooster-fighter-1x12-what-the-birds-beasts-and-trees-share",
-            "name": "What the Birds, Beasts, and Trees Share",
-            "season": 1,
-            "number": 12,
-            "type": "regular",
-            "airdate": "2026-06-21",
-            "airtime": "00:00",
-            "airstamp": "2026-06-21T15:00:00+00:00",
-            "runtime": 30,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": null,
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3615708"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/78631",
-                    "name": "Rooster Fighter"
                 }
             }
         }
