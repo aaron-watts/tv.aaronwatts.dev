@@ -1,24 +1,24 @@
 {
     "schedule": {
         "216": {
-            "id": 3596680,
-            "url": "https://www.tvmaze.com/episodes/3596680/rick-and-morty-9x06-erickerhead",
-            "name": "Erickerhead",
+            "id": 3596681,
+            "url": "https://www.tvmaze.com/episodes/3596681/rick-and-morty-9x07-mortgully-the-last-rickforest",
+            "name": "Mortgully: The Last Rickforest",
             "season": 9,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2026-06-28",
+            "airdate": "2026-07-05",
             "airtime": "23:00",
-            "airstamp": "2026-06-29T03:00:00+00:00",
+            "airstamp": "2026-07-06T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Rick's stomach is mad, broh. But it's all-you-can-eat-and-drink here, broh!</p>",
+            "summary": "<p>Rick and Morty gotta evolve, broh.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3596680"
+                    "href": "https://api.tvmaze.com/episodes/3596681"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/216",
@@ -54,14 +54,14 @@
         },
         "80375": {
             "id": 3648416,
-            "url": "https://www.tvmaze.com/episodes/3648416/bleach-thousand-year-blood-war-1x41-episode",
-            "name": "Episode",
-            "season": 1,
-            "number": 41,
+            "url": "https://www.tvmaze.com/episodes/3648416/bleach-thousand-year-blood-war-2x01-tbd",
+            "name": "TBD",
+            "season": 2,
+            "number": 1,
             "type": "regular",
-            "airdate": "2026-07-01",
+            "airdate": "2026-07-25",
             "airtime": "23:00",
-            "airstamp": "2026-07-01T14:00:00+00:00",
+            "airstamp": "2026-07-25T14:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
