@@ -1,24 +1,24 @@
 {
     "schedule": {
         "216": {
-            "id": 3596681,
-            "url": "https://www.tvmaze.com/episodes/3596681/rick-and-morty-9x07-mortgully-the-last-rickforest",
-            "name": "Mortgully: The Last Rickforest",
+            "id": 3596682,
+            "url": "https://www.tvmaze.com/episodes/3596682/rick-and-morty-9x08-rickuiem-mort-a-dream",
+            "name": "Rickuiem Mort a Dream",
             "season": 9,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2026-07-05",
+            "airdate": "2026-07-12",
             "airtime": "23:00",
-            "airstamp": "2026-07-06T03:00:00+00:00",
+            "airstamp": "2026-07-13T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Rick and Morty gotta evolve, broh.</p>",
+            "summary": "<p>Hold still, broh. It'll make you nice, broh.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3596681"
+                    "href": "https://api.tvmaze.com/episodes/3596682"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/216",
