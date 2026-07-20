@@ -1,24 +1,24 @@
 {
     "schedule": {
         "216": {
-            "id": 3596683,
-            "url": "https://www.tvmaze.com/episodes/3596683/rick-and-morty-9x09-salute-your-morts",
-            "name": "Salute Your Morts",
+            "id": 3596684,
+            "url": "https://www.tvmaze.com/episodes/3596684/rick-and-morty-9x10-field-of-dreams",
+            "name": "Field of Dreams",
             "season": 9,
-            "number": 9,
+            "number": 10,
             "type": "regular",
-            "airdate": "2026-07-19",
+            "airdate": "2026-07-26",
             "airtime": "23:00",
-            "airstamp": "2026-07-20T03:00:00+00:00",
+            "airstamp": "2026-07-27T03:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Morty and Summer go to camp, broh. Beth and Jerry home alone, broh.</p>",
+            "summary": "<p>Tom Sawyer, broh.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3596683"
+                    "href": "https://api.tvmaze.com/episodes/3596684"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/216",
