@@ -1,31 +1,5 @@
 {
     "schedule": {
-        "216": {
-            "id": 3596684,
-            "url": "https://www.tvmaze.com/episodes/3596684/rick-and-morty-9x10-field-of-dreams",
-            "name": "Field of Dreams",
-            "season": 9,
-            "number": 10,
-            "type": "regular",
-            "airdate": "2026-07-26",
-            "airtime": "23:00",
-            "airstamp": "2026-07-27T03:00:00+00:00",
-            "runtime": 30,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": "<p>Tom Sawyer, broh.</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3596684"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/216",
-                    "name": "Rick and Morty"
-                }
-            }
-        },
         "538": {
             "id": 3616891,
             "url": "https://www.tvmaze.com/episodes/3616891/futurama-14x01-beef",
