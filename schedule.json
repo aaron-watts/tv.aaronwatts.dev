@@ -1,28 +1,54 @@
 {
     "schedule": {
         "538": {
-            "id": 3616891,
-            "url": "https://www.tvmaze.com/episodes/3616891/futurama-14x01-beef",
-            "name": "Beef",
+            "id": 3684042,
+            "url": "https://www.tvmaze.com/episodes/3684042/futurama-14x03-our-flag-means-medical-coverage",
+            "name": "Our Flag Means Medical Coverage",
             "season": 14,
-            "number": 1,
+            "number": 3,
             "type": "regular",
-            "airdate": "2026-08-03",
+            "airdate": "2026-08-10",
             "airtime": "",
-            "airstamp": "2026-08-03T16:00:00+00:00",
+            "airstamp": "2026-08-10T16:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>The Professor attempts to create lab-grown meat so Fry can compete in the world hotdog-eating championship.</p>",
+            "summary": "<p>Vicious Space Pirates steal a priceless cargo entrusted to Fry and Bender.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3616891"
+                    "href": "https://api.tvmaze.com/episodes/3684042"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/538",
                     "name": "Futurama"
+                }
+            }
+        },
+        "80375": {
+            "id": 3691956,
+            "url": "https://www.tvmaze.com/episodes/3691956/bleach-thousand-year-blood-war-4x03-blood-for-my-bone",
+            "name": "Blood for My Bone",
+            "season": 4,
+            "number": 3,
+            "type": "regular",
+            "airdate": "2026-08-08",
+            "airtime": "23:00",
+            "airstamp": "2026-08-08T14:00:00+00:00",
+            "runtime": 30,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3691956"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/80375",
+                    "name": "Bleach: Thousand-Year Blood War"
                 }
             }
         },
