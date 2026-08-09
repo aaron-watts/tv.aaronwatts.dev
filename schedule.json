@@ -27,15 +27,15 @@
             }
         },
         "80375": {
-            "id": 3691956,
-            "url": "https://www.tvmaze.com/episodes/3691956/bleach-thousand-year-blood-war-4x03-blood-for-my-bone",
-            "name": "Blood for My Bone",
+            "id": 3691957,
+            "url": "https://www.tvmaze.com/episodes/3691957/bleach-thousand-year-blood-war-4x04-tbd",
+            "name": "TBD",
             "season": 4,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2026-08-08",
+            "airdate": "2026-08-15",
             "airtime": "23:00",
-            "airstamp": "2026-08-08T14:00:00+00:00",
+            "airstamp": "2026-08-15T14:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691956"
+                    "href": "https://api.tvmaze.com/episodes/3691957"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/80375",
