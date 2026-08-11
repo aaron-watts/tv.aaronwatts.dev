@@ -1,24 +1,24 @@
 {
     "schedule": {
         "538": {
-            "id": 3684042,
-            "url": "https://www.tvmaze.com/episodes/3684042/futurama-14x03-our-flag-means-medical-coverage",
-            "name": "Our Flag Means Medical Coverage",
+            "id": 3684043,
+            "url": "https://www.tvmaze.com/episodes/3684043/futurama-14x04-lords-of-the-ring",
+            "name": "Lords of the Ring",
             "season": 14,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2026-08-10",
+            "airdate": "2026-08-17",
             "airtime": "",
-            "airstamp": "2026-08-10T16:00:00+00:00",
+            "airstamp": "2026-08-17T16:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Vicious Space Pirates steal a priceless cargo entrusted to Fry and Bender.</p>",
+            "summary": "<p>The crew crash-lands on a mysterious world inhabited by intelligent rats.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3684042"
+                    "href": "https://api.tvmaze.com/episodes/3684043"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/538",
@@ -28,8 +28,8 @@
         },
         "80375": {
             "id": 3691957,
-            "url": "https://www.tvmaze.com/episodes/3691957/bleach-thousand-year-blood-war-4x04-episode-4",
-            "name": "Episode 4",
+            "url": "https://www.tvmaze.com/episodes/3691957/bleach-thousand-year-blood-war-4x04-the-perfect-crimson",
+            "name": "The Perfect Crimson",
             "season": 4,
             "number": 4,
             "type": "regular",
