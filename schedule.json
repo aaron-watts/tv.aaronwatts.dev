@@ -27,15 +27,15 @@
             }
         },
         "80375": {
-            "id": 3691957,
-            "url": "https://www.tvmaze.com/episodes/3691957/bleach-thousand-year-blood-war-4x04-the-perfect-crimson",
-            "name": "The Perfect Crimson",
+            "id": 3691958,
+            "url": "https://www.tvmaze.com/episodes/3691958/bleach-thousand-year-blood-war-4x05-episode-5",
+            "name": "Episode 5",
             "season": 4,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2026-08-15",
+            "airdate": "2026-08-22",
             "airtime": "23:00",
-            "airstamp": "2026-08-15T14:00:00+00:00",
+            "airstamp": "2026-08-22T14:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691957"
+                    "href": "https://api.tvmaze.com/episodes/3691958"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/80375",
