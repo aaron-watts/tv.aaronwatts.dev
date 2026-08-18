@@ -1,24 +1,24 @@
 {
     "schedule": {
         "538": {
-            "id": 3684043,
-            "url": "https://www.tvmaze.com/episodes/3684043/futurama-14x04-lords-of-the-ring",
-            "name": "Lords of the Ring",
+            "id": 3691306,
+            "url": "https://www.tvmaze.com/episodes/3691306/futurama-14x05-the-charm-offensive",
+            "name": "The Charm Offensive",
             "season": 14,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2026-08-17",
+            "airdate": "2026-08-24",
             "airtime": "",
-            "airstamp": "2026-08-17T16:00:00+00:00",
+            "airstamp": "2026-08-24T16:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>The crew crash-lands on a mysterious world inhabited by intelligent rats.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3684043"
+                    "href": "https://api.tvmaze.com/episodes/3691306"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/538",
