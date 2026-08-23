@@ -15,7 +15,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>Earth's biggest pop star uses musical brain programming to command her army of fans.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3691306"
@@ -27,15 +27,15 @@
             }
         },
         "80375": {
-            "id": 3691958,
-            "url": "https://www.tvmaze.com/episodes/3691958/bleach-thousand-year-blood-war-4x05-defend-you",
-            "name": "Defend You",
+            "id": 3691959,
+            "url": "https://www.tvmaze.com/episodes/3691959/bleach-thousand-year-blood-war-4x06-episode-6",
+            "name": "Episode 6",
             "season": 4,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2026-08-22",
+            "airdate": "2026-08-29",
             "airtime": "23:00",
-            "airstamp": "2026-08-22T14:00:00+00:00",
+            "airstamp": "2026-08-29T14:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691958"
+                    "href": "https://api.tvmaze.com/episodes/3691959"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/80375",
