@@ -1,24 +1,24 @@
 {
     "schedule": {
         "538": {
-            "id": 3691306,
-            "url": "https://www.tvmaze.com/episodes/3691306/futurama-14x05-the-charm-offensive",
-            "name": "The Charm Offensive",
+            "id": 3691307,
+            "url": "https://www.tvmaze.com/episodes/3691307/futurama-14x06-late-bloomers",
+            "name": "Late Bloomers",
             "season": 14,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2026-08-24",
+            "airdate": "2026-08-31",
             "airtime": "",
-            "airstamp": "2026-08-24T16:00:00+00:00",
+            "airstamp": "2026-08-31T16:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Earth's biggest pop star uses musical brain programming to command her army of fans.</p>",
+            "summary": "<p>Hermes attempts to save his dying father, as Zoidberg reunites with an old flame.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691306"
+                    "href": "https://api.tvmaze.com/episodes/3691307"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/538",
