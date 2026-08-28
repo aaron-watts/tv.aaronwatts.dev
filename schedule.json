@@ -77,6 +77,58 @@
                     "name": "South Park"
                 }
             }
+        },
+        "44776": {
+            "id": 3695361,
+            "url": "https://www.tvmaze.com/episodes/3695361/lanterns-1x03-outkast",
+            "name": "OutKast",
+            "season": 1,
+            "number": 3,
+            "type": "regular",
+            "airdate": "2026-08-30",
+            "airtime": "21:00",
+            "airstamp": "2026-08-31T01:00:00+00:00",
+            "runtime": 60,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3695361"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/44776",
+                    "name": "Lanterns"
+                }
+            }
+        },
+        "86177": {
+            "id": 3684570,
+            "url": "https://www.tvmaze.com/episodes/3684570/president-curtis-1x06-hollow",
+            "name": "Hollow",
+            "season": 1,
+            "number": 6,
+            "type": "regular",
+            "airdate": "2026-08-30",
+            "airtime": "23:30",
+            "airstamp": "2026-08-31T03:30:00+00:00",
+            "runtime": 30,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": "<p>When America faces a national energy crisis from overconsumption, Curtis and his team must venture deep into Hollow Earth to find a solution before America is plunged into darkness.\u00a0</p>",
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3684570"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/86177",
+                    "name": "President Curtis"
+                }
+            }
         }
     }
 }
