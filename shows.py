@@ -27,4 +27,6 @@ shows = [
     '56904', # Adventure Time: Fionna and Cake
     '78631', # Rooster Fighter
     '62554', # Scavengers Reign
+		  '44776', # Lanterns
+    '86177', # President Curtis
 ]
