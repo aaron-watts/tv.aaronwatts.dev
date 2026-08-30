@@ -27,15 +27,15 @@
             }
         },
         "80375": {
-            "id": 3691959,
-            "url": "https://www.tvmaze.com/episodes/3691959/bleach-thousand-year-blood-war-4x06-episode-6",
-            "name": "Episode 6",
+            "id": 3691960,
+            "url": "https://www.tvmaze.com/episodes/3691960/bleach-thousand-year-blood-war-4x07-episode-7",
+            "name": "Episode 7",
             "season": 4,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2026-08-29",
+            "airdate": "2026-09-05",
             "airtime": "23:00",
-            "airstamp": "2026-08-29T14:00:00+00:00",
+            "airstamp": "2026-09-05T14:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691959"
+                    "href": "https://api.tvmaze.com/episodes/3691960"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/80375",
