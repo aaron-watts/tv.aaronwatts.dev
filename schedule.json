@@ -79,15 +79,15 @@
             }
         },
         "44776": {
-            "id": 3695361,
-            "url": "https://www.tvmaze.com/episodes/3695361/lanterns-1x03-outkast",
-            "name": "OutKast",
+            "id": 3695362,
+            "url": "https://www.tvmaze.com/episodes/3695362/lanterns-1x04-tba",
+            "name": "TBA",
             "season": 1,
-            "number": 3,
+            "number": 4,
             "type": "regular",
-            "airdate": "2026-08-30",
+            "airdate": "2026-09-06",
             "airtime": "21:00",
-            "airstamp": "2026-08-31T01:00:00+00:00",
+            "airstamp": "2026-09-07T01:00:00+00:00",
             "runtime": 60,
             "rating": {
                 "average": null
@@ -96,7 +96,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3695361"
+                    "href": "https://api.tvmaze.com/episodes/3695362"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/44776",
@@ -105,24 +105,24 @@
             }
         },
         "86177": {
-            "id": 3684570,
-            "url": "https://www.tvmaze.com/episodes/3684570/president-curtis-1x06-hollow",
-            "name": "Hollow",
+            "id": 3684571,
+            "url": "https://www.tvmaze.com/episodes/3684571/president-curtis-1x07-ghosts",
+            "name": "Ghosts",
             "season": 1,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2026-08-30",
+            "airdate": "2026-09-06",
             "airtime": "23:30",
-            "airstamp": "2026-08-31T03:30:00+00:00",
+            "airstamp": "2026-09-07T03:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>When America faces a national energy crisis from overconsumption, Curtis and his team must venture deep into Hollow Earth to find a solution before America is plunged into darkness.\u00a0</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3684570"
+                    "href": "https://api.tvmaze.com/episodes/3684571"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/86177",
