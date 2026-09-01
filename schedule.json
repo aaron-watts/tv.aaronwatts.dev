@@ -1,24 +1,24 @@
 {
     "schedule": {
         "538": {
-            "id": 3691307,
-            "url": "https://www.tvmaze.com/episodes/3691307/futurama-14x06-late-bloomers",
-            "name": "Late Bloomers",
+            "id": 3691308,
+            "url": "https://www.tvmaze.com/episodes/3691308/futurama-14x07-lord-nibbler-in-the-nothingverse",
+            "name": "Lord Nibbler in the Nothingverse",
             "season": 14,
-            "number": 6,
+            "number": 7,
             "type": "regular",
-            "airdate": "2026-08-31",
+            "airdate": "2026-09-07",
             "airtime": "",
-            "airstamp": "2026-08-31T16:00:00+00:00",
+            "airstamp": "2026-09-07T16:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>Hermes attempts to save his dying father, as Zoidberg reunites with an old flame.</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691307"
+                    "href": "https://api.tvmaze.com/episodes/3691308"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/538",
@@ -80,8 +80,8 @@
         },
         "44776": {
             "id": 3695362,
-            "url": "https://www.tvmaze.com/episodes/3695362/lanterns-1x04-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3695362/lanterns-1x04-the-weenie",
+            "name": "The Weenie",
             "season": 1,
             "number": 4,
             "type": "regular",
