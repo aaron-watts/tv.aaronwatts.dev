@@ -27,15 +27,15 @@
             }
         },
         "80375": {
-            "id": 3691960,
-            "url": "https://www.tvmaze.com/episodes/3691960/bleach-thousand-year-blood-war-4x07-the-end-2",
-            "name": "The End 2",
+            "id": 3691961,
+            "url": "https://www.tvmaze.com/episodes/3691961/bleach-thousand-year-blood-war-4x08-episode-8",
+            "name": "Episode 8",
             "season": 4,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2026-09-05",
+            "airdate": "2026-09-12",
             "airtime": "23:00",
-            "airstamp": "2026-09-05T14:00:00+00:00",
+            "airstamp": "2026-09-12T14:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691960"
+                    "href": "https://api.tvmaze.com/episodes/3691961"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/80375",
@@ -88,7 +88,7 @@
             "airdate": "2026-09-06",
             "airtime": "21:00",
             "airstamp": "2026-09-07T01:00:00+00:00",
-            "runtime": 60,
+            "runtime": 56,
             "rating": {
                 "average": null
             },
