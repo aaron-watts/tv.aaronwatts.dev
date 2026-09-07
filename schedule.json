@@ -28,8 +28,8 @@
         },
         "80375": {
             "id": 3691961,
-            "url": "https://www.tvmaze.com/episodes/3691961/bleach-thousand-year-blood-war-4x08-episode-8",
-            "name": "Episode 8",
+            "url": "https://www.tvmaze.com/episodes/3691961/bleach-thousand-year-blood-war-4x08-the-end-two-world",
+            "name": "The End Two World",
             "season": 4,
             "number": 8,
             "type": "regular",
@@ -79,16 +79,16 @@
             }
         },
         "44776": {
-            "id": 3695362,
-            "url": "https://www.tvmaze.com/episodes/3695362/lanterns-1x04-the-weenie",
-            "name": "The Weenie",
+            "id": 3695363,
+            "url": "https://www.tvmaze.com/episodes/3695363/lanterns-1x05-tba",
+            "name": "TBA",
             "season": 1,
-            "number": 4,
+            "number": 5,
             "type": "regular",
-            "airdate": "2026-09-06",
+            "airdate": "2026-09-13",
             "airtime": "21:00",
-            "airstamp": "2026-09-07T01:00:00+00:00",
-            "runtime": 56,
+            "airstamp": "2026-09-14T01:00:00+00:00",
+            "runtime": 60,
             "rating": {
                 "average": null
             },
@@ -96,7 +96,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3695362"
+                    "href": "https://api.tvmaze.com/episodes/3695363"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/44776",
@@ -105,24 +105,24 @@
             }
         },
         "86177": {
-            "id": 3684571,
-            "url": "https://www.tvmaze.com/episodes/3684571/president-curtis-1x07-ghosts",
-            "name": "Ghosts",
+            "id": 3684572,
+            "url": "https://www.tvmaze.com/episodes/3684572/president-curtis-1x08-knox",
+            "name": "Knox",
             "season": 1,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2026-09-06",
+            "airdate": "2026-09-13",
             "airtime": "23:30",
-            "airstamp": "2026-09-07T03:30:00+00:00",
+            "airstamp": "2026-09-14T03:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>When Banks contracts malware, O'Doyle enters her computer brain to find a fix. Meanwhile, Curtis gives the ghost of President Lincoln a gift that empowers him to settle his unfinished business.\u00a0</p>",
+            "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3684571"
+                    "href": "https://api.tvmaze.com/episodes/3684572"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/86177",
