@@ -1,15 +1,15 @@
 {
     "schedule": {
         "538": {
-            "id": 3691308,
-            "url": "https://www.tvmaze.com/episodes/3691308/futurama-14x07-lord-nibbler-in-the-nothingverse",
-            "name": "Lord Nibbler in the Nothingverse",
+            "id": 3691309,
+            "url": "https://www.tvmaze.com/episodes/3691309/futurama-14x08-oceans-three",
+            "name": "Oceans Three",
             "season": 14,
-            "number": 7,
+            "number": 8,
             "type": "regular",
-            "airdate": "2026-09-07",
+            "airdate": "2026-09-14",
             "airtime": "",
-            "airstamp": "2026-09-07T16:00:00+00:00",
+            "airstamp": "2026-09-14T16:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
@@ -18,7 +18,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691308"
+                    "href": "https://api.tvmaze.com/episodes/3691309"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/538",
@@ -80,8 +80,8 @@
         },
         "44776": {
             "id": 3695363,
-            "url": "https://www.tvmaze.com/episodes/3695363/lanterns-1x05-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3695363/lanterns-1x05-lights-out",
+            "name": "Lights Out",
             "season": 1,
             "number": 5,
             "type": "regular",
