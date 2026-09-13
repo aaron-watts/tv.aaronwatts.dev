@@ -27,15 +27,15 @@
             }
         },
         "80375": {
-            "id": 3691961,
-            "url": "https://www.tvmaze.com/episodes/3691961/bleach-thousand-year-blood-war-4x08-the-end-two-world",
-            "name": "The End Two World",
+            "id": 3691962,
+            "url": "https://www.tvmaze.com/episodes/3691962/bleach-thousand-year-blood-war-4x09-episode-9",
+            "name": "Episode 9",
             "season": 4,
-            "number": 8,
+            "number": 9,
             "type": "regular",
-            "airdate": "2026-09-12",
+            "airdate": "2026-09-19",
             "airtime": "23:00",
-            "airstamp": "2026-09-12T14:00:00+00:00",
+            "airstamp": "2026-09-19T14:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -44,7 +44,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691961"
+                    "href": "https://api.tvmaze.com/episodes/3691962"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/80375",
