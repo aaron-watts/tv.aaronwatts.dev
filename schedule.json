@@ -15,7 +15,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>The Planet Express crew sets off on a treacherous ocean adventure.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3691309"
@@ -28,14 +28,14 @@
         },
         "80375": {
             "id": 3691962,
-            "url": "https://www.tvmaze.com/episodes/3691962/bleach-thousand-year-blood-war-4x09-episode-9",
-            "name": "Episode 9",
+            "url": "https://www.tvmaze.com/episodes/3691962/bleach-thousand-year-blood-war-4x09-the-blade",
+            "name": "The Blade",
             "season": 4,
             "number": 9,
             "type": "regular",
-            "airdate": "2026-09-19",
+            "airdate": "2026-10-19",
             "airtime": "23:00",
-            "airstamp": "2026-09-19T14:00:00+00:00",
+            "airstamp": "2026-10-19T14:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
@@ -79,15 +79,15 @@
             }
         },
         "44776": {
-            "id": 3695363,
-            "url": "https://www.tvmaze.com/episodes/3695363/lanterns-1x05-lights-out",
-            "name": "Lights Out",
+            "id": 3695364,
+            "url": "https://www.tvmaze.com/episodes/3695364/lanterns-1x06-tba",
+            "name": "TBA",
             "season": 1,
-            "number": 5,
+            "number": 6,
             "type": "regular",
-            "airdate": "2026-09-13",
+            "airdate": "2026-09-20",
             "airtime": "21:00",
-            "airstamp": "2026-09-14T01:00:00+00:00",
+            "airstamp": "2026-09-21T01:00:00+00:00",
             "runtime": 60,
             "rating": {
                 "average": null
@@ -96,7 +96,7 @@
             "summary": null,
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3695363"
+                    "href": "https://api.tvmaze.com/episodes/3695364"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/44776",
@@ -105,24 +105,24 @@
             }
         },
         "86177": {
-            "id": 3684572,
-            "url": "https://www.tvmaze.com/episodes/3684572/president-curtis-1x08-knox",
-            "name": "Knox",
+            "id": 3684573,
+            "url": "https://www.tvmaze.com/episodes/3684573/president-curtis-1x09-synths",
+            "name": "Synths",
             "season": 1,
-            "number": 8,
+            "number": 9,
             "type": "regular",
-            "airdate": "2026-09-13",
+            "airdate": "2026-09-20",
             "airtime": "23:30",
-            "airstamp": "2026-09-14T03:30:00+00:00",
+            "airstamp": "2026-09-21T03:30:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>A robbery at Fort Knox puts Curtis and the FBI on a manhunt for the culprit, forcing O'Doyle to confront figures from his past to get to the bottom of it.\u00a0</p>",
+            "summary": "<p>With Christmas spirit at an all-time low across the country, Curtis attempts to find a fix by deploying a group of synthetic beings, custom-designed to spread cheer.\u00a0</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3684572"
+                    "href": "https://api.tvmaze.com/episodes/3684573"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/86177",
