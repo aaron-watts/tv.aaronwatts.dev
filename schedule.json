@@ -1,24 +1,24 @@
 {
     "schedule": {
         "538": {
-            "id": 3691309,
-            "url": "https://www.tvmaze.com/episodes/3691309/futurama-14x08-oceans-three",
-            "name": "Oceans Three",
+            "id": 3691310,
+            "url": "https://www.tvmaze.com/episodes/3691310/futurama-14x09-a-new-new-york-yankee-in-king-elfos-court",
+            "name": "A New New York Yankee in King Elfo's Court",
             "season": 14,
-            "number": 8,
+            "number": 9,
             "type": "regular",
-            "airdate": "2026-09-14",
+            "airdate": "2026-09-21",
             "airtime": "",
-            "airstamp": "2026-09-14T16:00:00+00:00",
+            "airstamp": "2026-09-21T16:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>The Planet Express crew sets off on a treacherous ocean adventure.</p>",
+            "summary": "<p>A time-machine failure sends Fry sideways in time to a medieval land.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691309"
+                    "href": "https://api.tvmaze.com/episodes/3691310"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/538",
@@ -54,8 +54,8 @@
         },
         "112": {
             "id": 3620764,
-            "url": "https://www.tvmaze.com/episodes/3620764/south-park-29x01-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3620764/south-park-29x01-south-american-biker-gangs",
+            "name": "South American Biker Gangs",
             "season": 29,
             "number": 1,
             "type": "regular",
@@ -67,7 +67,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>When e-bikes arrive in South America, the boys take over the streets and the parents of South America can hardly recognize South America.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3620764"
@@ -80,8 +80,8 @@
         },
         "44776": {
             "id": 3695364,
-            "url": "https://www.tvmaze.com/episodes/3695364/lanterns-1x06-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3695364/lanterns-1x06-bad-optics",
+            "name": "Bad Optics",
             "season": 1,
             "number": 6,
             "type": "regular",
