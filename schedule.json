@@ -1,24 +1,24 @@
 {
     "schedule": {
         "538": {
-            "id": 3691310,
-            "url": "https://www.tvmaze.com/episodes/3691310/futurama-14x09-a-new-new-york-yankee-in-king-elfos-court",
-            "name": "A New New York Yankee in King Elfo's Court",
+            "id": 3691311,
+            "url": "https://www.tvmaze.com/episodes/3691311/futurama-14x10-final-ending-the-last-conclusion",
+            "name": "Final Ending: The Last Conclusion",
             "season": 14,
-            "number": 9,
+            "number": 10,
             "type": "regular",
-            "airdate": "2026-09-21",
+            "airdate": "2026-09-28",
             "airtime": "",
-            "airstamp": "2026-09-21T16:00:00+00:00",
+            "airstamp": "2026-09-28T16:00:00+00:00",
             "runtime": null,
             "rating": {
                 "average": null
             },
             "image": null,
-            "summary": "<p>A time-machine failure sends Fry sideways in time to a medieval land.</p>",
+            "summary": "<p>Fry and his brother sneak into a PG-13 movie as kids... with shocking consequences for the future.</p>",
             "_links": {
                 "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691310"
+                    "href": "https://api.tvmaze.com/episodes/3691311"
                 },
                 "show": {
                     "href": "https://api.tvmaze.com/shows/538",
@@ -80,8 +80,8 @@
         },
         "44776": {
             "id": 3695365,
-            "url": "https://www.tvmaze.com/episodes/3695365/lanterns-1x07-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3695365/lanterns-1x07-the-jordan-boys-legacy",
+            "name": "The Jordan Boys Legacy",
             "season": 1,
             "number": 7,
             "type": "regular",
