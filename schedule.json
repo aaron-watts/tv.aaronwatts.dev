@@ -1,31 +1,5 @@
 {
     "schedule": {
-        "538": {
-            "id": 3691311,
-            "url": "https://www.tvmaze.com/episodes/3691311/futurama-14x10-final-ending-the-last-conclusion",
-            "name": "Final Ending: The Last Conclusion",
-            "season": 14,
-            "number": 10,
-            "type": "regular",
-            "airdate": "2026-09-28",
-            "airtime": "",
-            "airstamp": "2026-09-28T16:00:00+00:00",
-            "runtime": null,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": "<p>Fry and his brother sneak into a PG-13 movie as kids... with shocking consequences for the future.</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691311"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/538",
-                    "name": "Futurama"
-                }
-            }
-        },
         "80375": {
             "id": 3691962,
             "url": "https://www.tvmaze.com/episodes/3691962/bleach-thousand-year-blood-war-4x09-the-blade",
@@ -80,8 +54,8 @@
         },
         "44776": {
             "id": 3695366,
-            "url": "https://www.tvmaze.com/episodes/3695366/lanterns-1x08-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3695366/lanterns-1x08-dirt-and-stars",
+            "name": "Dirt and Stars",
             "season": 1,
             "number": 8,
             "type": "regular",
