@@ -51,32 +51,6 @@
                     "name": "South Park"
                 }
             }
-        },
-        "44776": {
-            "id": 3695366,
-            "url": "https://www.tvmaze.com/episodes/3695366/lanterns-1x08-dirt-and-stars",
-            "name": "Dirt and Stars",
-            "season": 1,
-            "number": 8,
-            "type": "regular",
-            "airdate": "2026-10-04",
-            "airtime": "21:00",
-            "airstamp": "2026-10-05T01:00:00+00:00",
-            "runtime": 60,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": null,
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3695366"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/44776",
-                    "name": "Lanterns"
-                }
-            }
         }
     }
 }
