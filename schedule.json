@@ -1,5 +1,31 @@
 {
     "schedule": {
+        "69327": {
+            "id": 3784688,
+            "url": "https://www.tvmaze.com/episodes/3784688/common-side-effects-2x01-tba",
+            "name": "TBA",
+            "season": 2,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2027-01-24",
+            "airtime": "23:30",
+            "airstamp": "2027-01-25T04:30:00+00:00",
+            "runtime": 30,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3784688"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/69327",
+                    "name": "Common Side Effects"
+                }
+            }
+        },
         "80375": {
             "id": 3691962,
             "url": "https://www.tvmaze.com/episodes/3691962/bleach-thousand-year-blood-war-4x09-the-blade",
