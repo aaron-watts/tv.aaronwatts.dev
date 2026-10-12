@@ -8,8 +8,8 @@
             "number": 1,
             "type": "regular",
             "airdate": "2027-01-24",
-            "airtime": "23:30",
-            "airstamp": "2027-01-25T04:30:00+00:00",
+            "airtime": "23:00",
+            "airstamp": "2027-01-25T04:00:00+00:00",
             "runtime": 30,
             "rating": {
                 "average": null
