@@ -54,8 +54,8 @@
         },
         "112": {
             "id": 3621227,
-            "url": "https://www.tvmaze.com/episodes/3621227/south-park-29x03-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3621227/south-park-29x03-you-like-that-on-your-face",
+            "name": "You Like That On Your Face",
             "season": 29,
             "number": 3,
             "type": "regular",
@@ -67,7 +67,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>When aura battles take over South America, Kyle tries to help his little brother not be cringe.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3621227"
