@@ -26,32 +26,6 @@
                 }
             }
         },
-        "80375": {
-            "id": 3691963,
-            "url": "https://www.tvmaze.com/episodes/3691963/bleach-thousand-year-blood-war-4x10-episode-10",
-            "name": "Episode 10",
-            "season": 4,
-            "number": 10,
-            "type": "regular",
-            "airdate": "2026-10-26",
-            "airtime": "23:00",
-            "airstamp": "2026-10-26T14:00:00+00:00",
-            "runtime": 30,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": null,
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3691963"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/80375",
-                    "name": "Bleach: Thousand-Year Blood War"
-                }
-            }
-        },
         "112": {
             "id": 3621228,
             "url": "https://www.tvmaze.com/episodes/3621228/south-park-29x04-tba",
