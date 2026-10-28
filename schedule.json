@@ -28,8 +28,8 @@
         },
         "112": {
             "id": 3621228,
-            "url": "https://www.tvmaze.com/episodes/3621228/south-park-29x04-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3621228/south-park-29x04-guinea-pig-on-a-stick",
+            "name": "Guinea Pig on a Stick",
             "season": 29,
             "number": 4,
             "type": "regular",
@@ -41,7 +41,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>When South America's beef becomes highly prized and sought after, the four boys fight to keep it in local hands.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3621228"
