@@ -28,8 +28,8 @@
         },
         "112": {
             "id": 3621229,
-            "url": "https://www.tvmaze.com/episodes/3621229/south-park-29x05-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3621229/south-park-29x05-we-be-clubbin",
+            "name": "We Be Clubbin'",
             "season": 29,
             "number": 5,
             "type": "regular",
@@ -41,7 +41,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>When club sports take over Craig's afternoons and weekends, Tweek signs up to spend more time with him; soon his whole family struggles to keep up.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3621229"
