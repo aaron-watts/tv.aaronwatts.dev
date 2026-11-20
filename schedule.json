@@ -1,5 +1,31 @@
 {
     "schedule": {
+        "37196": {
+            "id": 3824818,
+            "url": "https://www.tvmaze.com/episodes/3824818/invincible-5x01-episode-1",
+            "name": "Episode 1",
+            "season": 5,
+            "number": 1,
+            "type": "regular",
+            "airdate": "2027-02-17",
+            "airtime": "",
+            "airstamp": "2027-02-17T12:00:00+00:00",
+            "runtime": null,
+            "rating": {
+                "average": null
+            },
+            "image": null,
+            "summary": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/episodes/3824818"
+                },
+                "show": {
+                    "href": "https://api.tvmaze.com/shows/37196",
+                    "name": "Invincible"
+                }
+            }
+        },
         "69327": {
             "id": 3784688,
             "url": "https://www.tvmaze.com/episodes/3784688/common-side-effects-2x01-tba",
