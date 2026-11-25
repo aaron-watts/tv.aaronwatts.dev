@@ -54,8 +54,8 @@
         },
         "112": {
             "id": 3621230,
-            "url": "https://www.tvmaze.com/episodes/3621230/south-park-29x06-tba",
-            "name": "TBA",
+            "url": "https://www.tvmaze.com/episodes/3621230/south-park-29x06-city-endings",
+            "name": "City Endings",
             "season": 29,
             "number": 6,
             "type": "regular",
@@ -67,7 +67,7 @@
                 "average": null
             },
             "image": null,
-            "summary": null,
+            "summary": "<p>When mysterious power outages strike South America, the townspeople fear Chinese cyberattacks; it's up to the boys to discover what's really going on.</p>",
             "_links": {
                 "self": {
                     "href": "https://api.tvmaze.com/episodes/3621230"
