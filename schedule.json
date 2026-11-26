@@ -51,32 +51,6 @@
                     "name": "Common Side Effects"
                 }
             }
-        },
-        "112": {
-            "id": 3621230,
-            "url": "https://www.tvmaze.com/episodes/3621230/south-park-29x06-city-endings",
-            "name": "City Endings",
-            "season": 29,
-            "number": 6,
-            "type": "regular",
-            "airdate": "2026-11-25",
-            "airtime": "22:00",
-            "airstamp": "2026-11-26T03:00:00+00:00",
-            "runtime": 30,
-            "rating": {
-                "average": null
-            },
-            "image": null,
-            "summary": "<p>When mysterious power outages strike South America, the townspeople fear Chinese cyberattacks; it's up to the boys to discover what's really going on.</p>",
-            "_links": {
-                "self": {
-                    "href": "https://api.tvmaze.com/episodes/3621230"
-                },
-                "show": {
-                    "href": "https://api.tvmaze.com/shows/112",
-                    "name": "South Park"
-                }
-            }
         }
     }
 }
